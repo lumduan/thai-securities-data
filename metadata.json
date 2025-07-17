@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17T12:56:52.235566",
+  "last_updated": "2025-07-17T13:27:46.116146",
   "total_securities": 922,
   "markets": {
     "SET": 697,
@@ -37,12 +37,12 @@
   },
   "data_source": "https://www.set.or.th/dat/eod/listedcompany/static/listedCompanies_th_TH.xls",
   "api_endpoints": {
-    "all_securities": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/data/thai_securities_all.json",
-    "compact": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/data/thai_securities_compact.json",
-    "metadata": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/data/metadata.json",
-    "by_sector": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/data/thai_securities_by_sector.json",
-    "market_set": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/data/thai_securities_market_set.json",
-    "market_mai": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/data/thai_securities_market_mai.json"
+    "all_securities": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json",
+    "compact": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact.json",
+    "metadata": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata.json",
+    "by_sector": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_by_sector.json",
+    "market_set": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set.json",
+    "market_mai": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai.json"
   },
   "export_info": {
     "generated_by": "ThaiSecurities JSON Exporter",
