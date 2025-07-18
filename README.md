@@ -1,102 +1,184 @@
 # Thai Securities Data API
 
-🇹🇭 **Free Public JSON API for Thai Stock Market Data**
+🇹🇭 🇬🇧 **Free Multilingual Public JSON API for Thai Stock Market Data**
 
-Real-time Thai securities data from the Stock Exchange of Thailand (SET) and Market for Alternative Investment (mai), updated daily and served via GitHub's global CDN.
+Real-time Thai securities data from the Stock Exchange of Thailand (SET) and Market for Alternative Investment (mai), updated daily and served via GitHub's global CDN in both Thai and English languages.
 
 ## 🚀 Quick Start
 
 ```bash
-# Get all securities (922 companies)
-curl https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json
+# Get all securities - Thai version (922 companies)
+curl https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json
 
-# Get compact data (faster loading)
-curl https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact.json
+# Get all securities - English version (922 companies)  
+curl https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json
+
+# Get compact data - Thai version (faster loading)
+curl https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_th.json
+
+# Get compact data - English version (faster loading)
+curl https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_en.json
 ```
+
+## 🌐 Multilingual Support
+
+All API endpoints are available in both Thai and English versions:
+
+- **🇹🇭 Thai files**: `*_th.json` - Full Thai language content with original Thai company names and sector classifications
+- **🇬🇧 English files**: `*_en.json` - English language content with translated company names and sector classifications
+
+Choose the appropriate language version based on your application needs:
+- Use **Thai version** for applications serving Thai users or requiring original Thai company names
+- Use **English version** for international applications or English-speaking users
 
 ## 📊 API Endpoints
 
 **Base URL**: `https://raw.githubusercontent.com/lumduan/thai-securities-data/main/`
 
+### Thai Language Endpoints (`_th.json`)
+
 | Endpoint | Securities | Size | Description |
 |----------|------------|------|-------------|
-| [`thai_securities_all.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json) | 922 | ~400KB | Complete dataset with all fields |
-| [`thai_securities_compact.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact.json) | 922 | ~50KB | Essential fields only (symbol, name, market, sector) |
-| [`thai_securities_market_set.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set.json) | 697 | ~300KB | SET market securities only |
-| [`thai_securities_market_mai.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai.json) | 225 | ~100KB | mai market securities only |
-| [`thai_securities_by_sector.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_by_sector.json) | 922 | ~400KB | Grouped by 28 business sectors |
-| [`metadata.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata.json) | - | ~2KB | API statistics and update information |
+| [`thai_securities_all_th.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json) | 922 | ~584KB | Complete Thai dataset with all fields |
+| [`thai_securities_compact_th.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_th.json) | 922 | ~223KB | Essential fields only (Thai) |
+| [`thai_securities_market_set_th.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set_th.json) | 697 | ~455KB | SET market securities (Thai) |
+| [`thai_securities_market_mai_th.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai_th.json) | 225 | ~129KB | mai market securities (Thai) |
+| [`thai_securities_by_sector_th.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_by_sector_th.json) | 922 | ~616KB | Grouped by 28 business sectors (Thai) |
+| [`metadata_th.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata_th.json) | - | ~3.5KB | Thai API statistics and information |
+
+### English Language Endpoints (`_en.json`)
+
+| Endpoint | Securities | Size | Description |
+|----------|------------|------|-------------|
+| [`thai_securities_all_en.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json) | 922 | ~340KB | Complete English dataset with all fields |
+| [`thai_securities_compact_en.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_en.json) | 922 | ~126KB | Essential fields only (English) |
+| [`thai_securities_market_set_en.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set_en.json) | 697 | ~261KB | SET market securities (English) |
+| [`thai_securities_market_mai_en.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai_en.json) | 225 | ~79KB | mai market securities (English) |
+| [`thai_securities_by_sector_en.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_by_sector_en.json) | 922 | ~371KB | Grouped by 28 business sectors (English) |
+| [`metadata_en.json`](https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata_en.json) | - | ~2.4KB | English API statistics and information |
 
 ## 💻 Usage Examples
 
 ### JavaScript
+
 ```javascript
-// Fetch all securities
-const response = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json');
-const securities = await response.json();
-console.log(`Loaded ${securities.length} securities`);
+// Fetch all securities (Thai version)
+const responseTh = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json');
+const securitiesTh = await responseTh.json();
+console.log(`Loaded ${securitiesTh.length} Thai securities`);
 
-// Fetch compact data for better performance
-const compactData = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact.json');
-const compactSecurities = await compactData.json();
+// Fetch all securities (English version)  
+const responseEn = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json');
+const securitiesEn = await responseEn.json();
+console.log(`Loaded ${securitiesEn.length} English securities`);
 
-// Get API metadata
-const metadata = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata.json');
-const apiInfo = await metadata.json();
-console.log(`Last updated: ${apiInfo.last_updated}`);
+// Fetch compact data for better performance (Thai)
+const compactDataTh = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_th.json');
+const compactSecuritiesTh = await compactDataTh.json();
+
+// Fetch compact data for better performance (English)
+const compactDataEn = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_en.json');
+const compactSecuritiesEn = await compactDataEn.json();
+
+// Get API metadata (Thai)
+const metadataTh = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata_th.json');
+const apiInfoTh = await metadataTh.json();
+console.log(`Thai API last updated: ${apiInfoTh.last_updated}`);
+
+// Get API metadata (English)
+const metadataEn = await fetch('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata_en.json');
+const apiInfoEn = await metadataEn.json();
+console.log(`English API last updated: ${apiInfoEn.last_updated}`);
 ```
 
 ### Python
+
 ```python
 import pandas as pd
 import requests
 
-# Using pandas (recommended for data analysis)
-df = pd.read_json('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json')
-print(f"Loaded {len(df)} securities")
+# Using pandas - Thai version (recommended for Thai data analysis)
+df_th = pd.read_json('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json')
+print(f"Loaded {len(df_th)} Thai securities")
 
-# Using requests
-response = requests.get('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact.json')
-securities = response.json()
+# Using pandas - English version (recommended for international users)
+df_en = pd.read_json('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json')
+print(f"Loaded {len(df_en)} English securities")
 
-# Get specific market data
-set_data = requests.get('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set.json')
-set_securities = set_data.json()
-print(f"SET market has {len(set_securities)} securities")
+# Using requests for Thai data
+response_th = requests.get('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_th.json')
+securities_th = response_th.json()
+
+# Using requests for English data
+response_en = requests.get('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_en.json')
+securities_en = response_en.json()
+
+# Get specific market data (Thai SET)
+set_data_th = requests.get('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set_th.json')
+set_securities_th = set_data_th.json()
+print(f"SET market (Thai) has {len(set_securities_th)} securities")
+
+# Get specific market data (English SET)
+set_data_en = requests.get('https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set_en.json')
+set_securities_en = set_data_en.json()
+print(f"SET market (English) has {len(set_securities_en)} securities")
 ```
 
 ### cURL & jq
+
 ```bash
-# Download complete dataset
-curl -o thai_securities.json https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json
+# Download complete dataset (Thai)
+curl -o thai_securities_th.json https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json
 
-# Count securities by market
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json | jq 'group_by(.market) | map({market: .[0].market, count: length})'
+# Download complete dataset (English)
+curl -o thai_securities_en.json https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json
 
-# Filter by sector (Energy & Utilities)
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json | jq '.[] | select(.sector == "พลังงานและสาธารณูปโภค")'
+# Count securities by market (Thai)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json | jq 'group_by(.market) | map({market: .[0].market, count: length})'
 
-# Get latest update timestamp
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata.json | jq -r '.last_updated'
+# Count securities by market (English)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json | jq 'group_by(.market) | map({market: .[0].market, count: length})'
+
+# Filter by sector (Thai - Energy & Utilities)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json | jq '.[] | select(.sector == "พลังงานและสาธารณูปโภค")'
+
+# Get latest update timestamp (Thai)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata_th.json | jq -r '.last_updated'
+
+# Get latest update timestamp (English)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata_en.json | jq -r '.last_updated'
 ```
 
 ### PHP
+
 ```php
-// Fetch securities data
-$url = 'https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact.json';
-$data = json_decode(file_get_contents($url), true);
+// Fetch Thai securities data
+$url_th = 'https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_th.json';
+$data_th = json_decode(file_get_contents($url_th), true);
+echo "Loaded " . count($data_th) . " Thai securities\n";
 
-echo "Loaded " . count($data) . " securities\n";
+// Fetch English securities data
+$url_en = 'https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_en.json';
+$data_en = json_decode(file_get_contents($url_en), true);
+echo "Loaded " . count($data_en) . " English securities\n";
 
-// Filter SET market only
-$setSecurities = array_filter($data, function($security) {
+// Filter SET market only (Thai)
+$setSecurities_th = array_filter($data_th, function($security) {
     return $security['market'] === 'SET';
 });
+
+// Filter SET market only (English)
+$setSecurities_en = array_filter($data_en, function($security) {
+    return $security['market'] === 'SET';
+});
+
+echo "SET market: " . count($setSecurities_th) . " Thai securities, " . count($setSecurities_en) . " English securities\n";
 ```
 
 ## 📋 Data Schema
 
-### Complete Dataset (`thai_securities_all.json`)
+### Thai Complete Dataset (`thai_securities_all_th.json`)
+
 ```json
 {
   "symbol": "PTT",
@@ -112,13 +194,33 @@ $setSecurities = array_filter($data, function($security) {
 }
 ```
 
-### Compact Dataset (`thai_securities_compact.json`)
+### English Complete Dataset (`thai_securities_all_en.json`)
+
 ```json
 {
   "symbol": "PTT",
-  "name": "บริษัท ปิโตรเลียมแห่งประเทศไทย จำกัด (มหาชน)",
+  "name": "PTT Public Company Limited",
   "market": "SET",
-  "sector": "พลังงานและสาธารณูปโภค"
+  "industry": "Energy",
+  "sector": "Energy & Utilities",
+  "address": "555 Vibhavadi Rangsit Road, Chatuchak, Bangkok",
+  "zip": "10900",
+  "tel": "0-2537-2000",
+  "fax": "0-2537-3498",
+  "web": "www.pttplc.com"
+}
+```
+
+### Compact Dataset Schema (Both Languages)
+
+```json
+{
+  "symbol": "PTT",
+  "name": "บริษัท ปิโตรเลียมแห่งประเทศไทย จำกัด (มหาชน)", // Thai version
+  "name": "PTT Public Company Limited", // English version
+  "market": "SET",
+  "sector": "พลังงานและสาธารณูปโภค" // Thai version
+  "sector": "Energy & Utilities" // English version
 }
 ```
 
@@ -144,49 +246,78 @@ Check [`metadata.json`](https://raw.githubusercontent.com/lumduan/thai-securitie
 - **SET Market**: 697 securities
 - **mai Market**: 225 securities  
 - **Business Sectors**: 28 categories
-- **Data Source**: [Stock Exchange of Thailand](https://www.set.or.th/dat/eod/listedcompany/static/listedCompanies_th_TH.xls)
+- **Languages**: Thai (🇹🇭) and English (🇬🇧)
+- **Data Sources**:
+  - Thai: [Listed Companies (Thai)](https://www.set.or.th/dat/eod/listedcompany/static/listedCompanies_th_TH.xls)
+  - English: [Listed Companies (English)](https://www.set.or.th/dat/eod/listedcompany/static/listedCompanies_en_US.xls)
 
 ## 💡 Use Cases
 
-- **📱 Financial Apps**: Stock screeners, portfolio trackers
+- **📱 Financial Apps**: Stock screeners, portfolio trackers (multilingual support)
 - **📊 Data Analysis**: Market research, sector analysis, academic studies
 - **🎓 Educational**: Learning Thai stock market, fintech projects
 - **🔧 API Development**: Backend services, mobile apps, trading bots
 - **📈 Dashboards**: Real-time market monitoring, business intelligence
+- **🌍 International Applications**: Serve both Thai and international users
 
 ## 🛠️ Integration Best Practices
 
-1. **🎯 Use Compact Endpoint**: For better performance when you only need basic fields
-2. **💾 Implement Caching**: Data updates daily, cache responses appropriately
-3. **🛡️ Error Handling**: Always implement proper error handling for network requests
-4. **📡 Monitor Metadata**: Check `metadata.json` for update timestamps and API status
-5. **⚡ Rate Limiting**: Respect GitHub's infrastructure, implement client-side rate limiting
-6. **🔄 Polling Strategy**: Check for updates every few hours rather than continuous polling
+1. **🌐 Choose Language**: Use Thai version for local users, English for international
+2. **🎯 Use Compact Endpoint**: For better performance when you only need basic fields
+3. **💾 Implement Caching**: Data updates daily, cache responses appropriately
+4. **🛡️ Error Handling**: Always implement proper error handling for network requests
+5. **📡 Monitor Metadata**: Check `metadata_th.json` / `metadata_en.json` for update timestamps
+6. **⚡ Rate Limiting**: Respect GitHub's infrastructure, implement client-side rate limiting
+7. **🔄 Polling Strategy**: Check for updates every few hours rather than continuous polling
 
 ## 🔍 Filtering & Querying Examples
 
 ### By Market
-```bash
-# GET SET securities only
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set.json
 
-# GET mai securities only  
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai.json
+```bash
+# GET SET securities only (Thai)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set_th.json
+
+# GET SET securities only (English)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set_en.json
+
+# GET mai securities only (Thai)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai_th.json
+
+# GET mai securities only (English)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai_en.json
 ```
 
 ### By Sector
-```bash
-# Energy & Utilities companies
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json | jq '.[] | select(.sector == "พลังงานและสาธารณูปโภค")'
 
-# Banking & Finance companies
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json | jq '.[] | select(.sector == "เงินทุนและหลักทรัพย์")'
+```bash
+# Energy & Utilities companies (Thai)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json | jq '.[] | select(.sector == "พลังงานและสาธารณูปโภค")'
+
+# Energy & Utilities companies (English)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json | jq '.[] | select(.sector == "Energy & Utilities")'
+
+# Banking & Finance companies (Thai)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json | jq '.[] | select(.sector == "เงินทุนและหลักทรัพย์")'
+
+# Banking & Finance companies (English)
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json | jq '.[] | select(.sector == "Banking & Finance")'
 ```
 
 ### Search by Name
+
 ```bash
-# Find companies with "ธนาคาร" (Bank) in name
-curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json | jq '.[] | select(.name | contains("ธนาคาร"))'
+# Find companies with "ธนาคาร" (Bank) in Thai name
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json | jq '.[] | select(.name | contains("ธนาคาร"))'
+
+# Find companies with "Bank" in English name
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json | jq '.[] | select(.name | contains("Bank"))'
+
+# Find companies with "โรงพยาบาล" (Hospital) in Thai name
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json | jq '.[] | select(.name | contains("โรงพยาบาล"))'
+
+# Find companies with "Hospital" in English name
+curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_en.json | jq '.[] | select(.name | contains("Hospital"))'
 ```
 
 ## 🤝 Contributing & Support
@@ -211,10 +342,12 @@ curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai
 
 ---
 
-**📊 API Status**: ✅ **Active** • **🔄 Auto-Updates**: Daily • **📈 Securities**: 922 • **⚡ Capacity**: 10K+ req/min
+**📊 API Status**: ✅ **Active** • **🔄 Auto-Updates**: Daily • **📈 Securities**: 922 • **🌐 Languages**: Thai & English • **⚡ Capacity**: 10K+ req/min
 
-**Last Repository Update**: 2025-07-17 • **Data Updates**: Daily • **Uptime**: 99.9%
+**Last Repository Update**: 2025-07-18 • **Data Updates**: Daily • **Uptime**: 99.9%
 
 ---
 
 > 💡 **Tip**: Star this repository to stay updated with improvements and new features!
+
+> 🌍 **New**: Now available in both Thai (🇹🇭) and English (🇬🇧) versions for enhanced international accessibility!
