@@ -2,7 +2,7 @@
 
 🇹🇭 **Free Public JSON API for Thai Stock Market Data**
 
-Real-time Thai securities data from the Stock Exchange of Thailand (SET) and Market for Alternative Investment (mai), updated 3 times daily and served via GitHub's global CDN.
+Real-time Thai securities data from the Stock Exchange of Thailand (SET) and Market for Alternative Investment (mai), updated daily and served via GitHub's global CDN.
 
 ## 🚀 Quick Start
 
@@ -157,7 +157,7 @@ Check [`metadata.json`](https://raw.githubusercontent.com/lumduan/thai-securitie
 ## 🛠️ Integration Best Practices
 
 1. **🎯 Use Compact Endpoint**: For better performance when you only need basic fields
-2. **💾 Implement Caching**: Data updates 3x daily, cache responses appropriately
+2. **💾 Implement Caching**: Data updates daily, cache responses appropriately
 3. **🛡️ Error Handling**: Always implement proper error handling for network requests
 4. **📡 Monitor Metadata**: Check `metadata.json` for update timestamps and API status
 5. **⚡ Rate Limiting**: Respect GitHub's infrastructure, implement client-side rate limiting
