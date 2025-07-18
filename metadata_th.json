@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-18T07:00:07.191190",
+  "last_updated": "2025-07-18T20:03:17.356308",
   "total_securities": 922,
   "markets": {
     "SET": 697,
@@ -20,12 +20,12 @@
     "เหล็ก และ ผลิตภัณฑ์โลหะ": 23,
     "สื่อและสิ่งพิมพ์": 23,
     "วัสดุก่อสร้าง": 21,
-    "วัสดุอุตสาหกรรมและเครื่องจักร": 21,
     "บรรจุภัณฑ์": 21,
+    "วัสดุอุตสาหกรรมและเครื่องจักร": 21,
     "ยานยนต์": 20,
     "แฟชั่น": 18,
-    "ประกันภัยและประกันชีวิต": 17,
     "ของใช้ส่วนตัวและเวชภัณฑ์": 17,
+    "ประกันภัยและประกันชีวิต": 17,
     "การท่องเที่ยวและสันทนาการ": 16,
     "ธุรกิจการเกษตร": 13,
     "ปิโตรเคมีและเคมีภัณฑ์": 13,
@@ -37,12 +37,12 @@
   },
   "data_source": "https://www.set.or.th/dat/eod/listedcompany/static/listedCompanies_th_TH.xls",
   "api_endpoints": {
-    "all_securities": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all.json",
-    "compact": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact.json",
-    "metadata": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata.json",
-    "by_sector": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_by_sector.json",
-    "market_set": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set.json",
-    "market_mai": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai.json"
+    "all_securities": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_all_th.json",
+    "compact": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_compact_th.json",
+    "metadata": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/metadata_th.json",
+    "by_sector": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_by_sector_th.json",
+    "market_set": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_set_th.json",
+    "market_mai": "https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai_securities_market_mai_th.json"
   },
   "export_info": {
     "generated_by": "ThaiSecurities JSON Exporter",
