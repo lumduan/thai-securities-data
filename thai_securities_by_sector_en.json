@@ -241,18 +241,6 @@
       "web": "www.auct.co.th"
     },
     {
-      "symbol": "BBIK",
-      "name": "BLUEBIK GROUP PUBLIC COMPANY LIMITED",
-      "market": "mai",
-      "industry": "Technology",
-      "sector": "-",
-      "address": "51, Naradhiwas Rajanagarindra Rd., Silom, Bangrak Bangkok",
-      "zip": "10500",
-      "tel": "0-2636-7011",
-      "fax": "-",
-      "web": "https://www.bluebik.com"
-    },
-    {
       "symbol": "BC",
       "name": "BOUTIQUE CORPORATION PUBLIC COMPANY LIMITED",
       "market": "mai",
@@ -3041,6 +3029,18 @@
       "web": "https://www.amrasia.com"
     },
     {
+      "symbol": "BBIK",
+      "name": "BLUEBIK GROUP PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Technology",
+      "sector": "Information & Communication Technology",
+      "address": "51, Naradhiwas Rajanagarindra Rd., Silom, Bangrak Bangkok",
+      "zip": "10500",
+      "tel": "0-2636-7011",
+      "fax": "-",
+      "web": "https://www.bluebik.com"
+    },
+    {
       "symbol": "BLISS",
       "name": "BLISS INTELLIGENCE PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -5154,7 +5154,7 @@
       "sector": "Transportation & Logistics",
       "address": "89 VIBHAVADI RANGSIT ROAD, CHATUCHAK Bangkok",
       "zip": "10900",
-      "tel": "0-2545-1000, 0-2025-1000",
+      "tel": "0-2356-1111",
       "fax": "0-2513-0203",
       "web": "http://www.thaiairways.com"
     },

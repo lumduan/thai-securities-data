@@ -1058,9 +1058,9 @@
   {
     "symbol": "BBIK",
     "name": "BLUEBIK GROUP PUBLIC COMPANY LIMITED",
-    "market": "mai",
+    "market": "SET",
     "industry": "Technology",
-    "sector": "-",
+    "sector": "Information & Communication Technology",
     "address": "51, Naradhiwas Rajanagarindra Rd., Silom, Bangrak Bangkok",
     "zip": "10500",
     "tel": "0-2636-7011",
@@ -9259,7 +9259,7 @@
     "sector": "Transportation & Logistics",
     "address": "89 VIBHAVADI RANGSIT ROAD, CHATUCHAK Bangkok",
     "zip": "10900",
-    "tel": "0-2545-1000, 0-2025-1000",
+    "tel": "0-2356-1111",
     "fax": "0-2513-0203",
     "web": "http://www.thaiairways.com"
   },

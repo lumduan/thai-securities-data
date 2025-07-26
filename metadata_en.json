@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-07-25T07:00:13.301352",
+  "last_updated": "2025-07-26T07:00:12.456878",
   "total_securities": 922,
   "markets": {
-    "SET": 697,
-    "mai": 225
+    "SET": 698,
+    "mai": 224
   },
   "sectors": {
-    "-": 225,
+    "-": 224,
     "Energy & Utilities": 61,
     "Property Development": 60,
     "Food & Beverage": 57,
     "Property Fund & REITs": 56,
     "Finance & Securities": 41,
-    "Information & Communication Technology": 38,
+    "Information & Communication Technology": 39,
     "Commerce": 33,
     "Construction Services": 32,
     "Transportation & Logistics": 29,
