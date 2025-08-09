@@ -3434,7 +3434,7 @@
       "zip": "10170",
       "tel": "0-2037-8122",
       "fax": "-",
-      "web": "www.giftinfinite.co.th"
+      "web": "www.rsxyz.com"
     }
   ],
   "Property Development": [
@@ -4365,18 +4365,6 @@
       "web": "https://www.foodmoments.co.th/"
     },
     {
-      "symbol": "GLOCON",
-      "name": "GLOBAL CONSUMER PUBLIC COMPANY LIMITED",
-      "market": "SET",
-      "industry": "Agro & Food Industry",
-      "sector": "Food & Beverage",
-      "address": "60 2nd floor, Soi Praditmanutham 19 Praditmanutham Rd., Lat Phrao, Lat Phrao Bangkok",
-      "zip": "10230",
-      "tel": "0-2712-5487-88",
-      "fax": "0-2712-5750",
-      "web": "www.glocon.co.th"
-    },
-    {
       "symbol": "HTC",
       "name": "HAAD THIP PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -4495,6 +4483,18 @@
       "tel": "0-2836-1000",
       "fax": "0-2836-1099",
       "web": "www.mkrestaurant.com"
+    },
+    {
+      "symbol": "MADAME",
+      "name": "MADAME BIOSCIENCE PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Agro & Food Industry",
+      "sector": "Food & Beverage",
+      "address": "60 2nd floor, Soi Praditmanutham 19 Praditmanutham Rd., Lat Phrao, Lat Phrao Bangkok",
+      "zip": "10230",
+      "tel": "0-2712-5487-88",
+      "fax": "0-2712-5750",
+      "web": "www.glocon.co.th"
     },
     {
       "symbol": "MALEE",
@@ -10263,7 +10263,7 @@
       "address": "123 V. One Tower building, Rama 9 Road, Huai Khwang Sub-district, Huai Khwang District Bangkok",
       "zip": "10310",
       "tel": "0-2697-5300",
-      "fax": "0-2642-2122",
+      "fax": "0-2642-3096",
       "web": "www.thaicreditbank.com"
     },
     {
