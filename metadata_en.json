@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-08-15T07:00:11.034779",
-  "total_securities": 922,
+  "last_updated": "2025-08-16T07:00:11.123769",
+  "total_securities": 923,
   "markets": {
     "SET": 698,
-    "mai": 224
+    "mai": 225
   },
   "sectors": {
-    "-": 224,
+    "-": 225,
     "Energy & Utilities": 61,
     "Property Development": 60,
     "Food & Beverage": 57,
