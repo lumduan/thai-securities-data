@@ -8184,18 +8184,6 @@
     "web": "www.saleeprinting.com"
   },
   {
-    "symbol": "SM",
-    "name": "STAR MONEY PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Financials",
-    "sector": "Finance & Securities",
-    "address": "204/1-8 Sukhumwit Road, Thang Kwian, Klaeng Rayong",
-    "zip": "21110",
-    "tel": "06-1393-9988",
-    "fax": "-",
-    "web": "www.starmoney.co.th"
-  },
-  {
     "symbol": "SMART",
     "name": "SMART CONCRETE PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -8638,6 +8626,18 @@
     "tel": "0-2581-5462",
     "fax": "0-2581-5397",
     "web": "www.thaistanley.com"
+  },
+  {
+    "symbol": "STARM",
+    "name": "STAR MONEY PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Financials",
+    "sector": "Finance & Securities",
+    "address": "204/1-8 Sukhumwit Road, Thang Kwian, Klaeng Rayong",
+    "zip": "21110",
+    "tel": "06-1393-9988",
+    "fax": "-",
+    "web": "www.starmoney.co.th"
   },
   {
     "symbol": "STC",
@@ -10193,7 +10193,7 @@
     "market": "SET",
     "industry": "Property & Construction",
     "sector": "Construction Services",
-    "address": "159/41-44 SERM-MIT TOWER 27TH - 30TH FLOOR, SUKHUMVIT 21 (ASOKE), NORTH KLONGTOEY, WATTANA Bangkok",
+    "address": "159/42-44 SERM-MIT TOWER 28TH - 30TH FLOOR, SUKHUMVIT 21 (ASOKE), NORTH KLONGTOEY, WATTANA Bangkok",
     "zip": "10110",
     "tel": "0-2260-8505",
     "fax": "0-2260-8525-6",
