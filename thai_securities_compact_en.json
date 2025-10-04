@@ -18,6 +18,12 @@
     "sector": "Information & Communication Technology"
   },
   {
+    "symbol": "88TH",
+    "name": "88(Thailand) Public Company Limited",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
     "symbol": "A",
     "name": "AREEYA PROPERTY PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -5140,6 +5146,12 @@
     "name": "T.U. DOME RESIDENTIAL COMPLEX LEASEHOLD PROPERTY FUND",
     "market": "SET",
     "sector": "Property Fund & REITs"
+  },
+  {
+    "symbol": "TURBO",
+    "name": "Ngernturbo Public Company Limited",
+    "market": "SET",
+    "sector": "Finance & Securities"
   },
   {
     "symbol": "TURTLE",

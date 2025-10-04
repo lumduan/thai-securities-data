@@ -13,6 +13,18 @@
       "web": "www.24con-supply.com"
     },
     {
+      "symbol": "88TH",
+      "name": "88(Thailand) Public Company Limited",
+      "market": "mai",
+      "industry": "Consumer Products",
+      "sector": "-",
+      "address": "48 Soi Sangkom Songkroh 8, Lat Phrao Sub-district/Sub-area, Lat Phrao District/Area Bangkok",
+      "zip": "10230",
+      "tel": "0-2326-8888",
+      "fax": "-",
+      "web": "www.88thailand.co.th"
+    },
+    {
       "symbol": "ABM",
       "name": "ASIA BIOMASS PUBLIC COMPANY LIMITED",
       "market": "mai",
@@ -1472,8 +1484,8 @@
       "sector": "-",
       "address": "129 Moo 3 Nongchak-Phanasnikom Rd., Nongeiroon Banbueng Chonburi",
       "zip": "20220",
-      "tel": "0-3816-0707",
-      "fax": "0-3816-0706",
+      "tel": "0-3313-9284",
+      "fax": "-",
       "web": "www.ndrubber.co.th"
     },
     {
@@ -7061,6 +7073,18 @@
       "tel": "0-2080-0649",
       "fax": "-",
       "web": "www.tnl.co.th"
+    },
+    {
+      "symbol": "TURBO",
+      "name": "Ngernturbo Public Company Limited",
+      "market": "SET",
+      "industry": "Financials",
+      "sector": "Finance & Securities",
+      "address": "500 Moo 3, Ban Mai Sub-district/Sub-area, Pak Kret District/Area Nonthaburi",
+      "zip": "11120",
+      "tel": "09-6294-1835",
+      "fax": "-",
+      "web": "https://www.turbo.co.th/"
     },
     {
       "symbol": "UOBKH",

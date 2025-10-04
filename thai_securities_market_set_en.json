@@ -7824,6 +7824,18 @@
     "web": "-"
   },
   {
+    "symbol": "TURBO",
+    "name": "Ngernturbo Public Company Limited",
+    "market": "SET",
+    "industry": "Financials",
+    "sector": "Finance & Securities",
+    "address": "500 Moo 3, Ban Mai Sub-district/Sub-area, Pak Kret District/Area Nonthaburi",
+    "zip": "11120",
+    "tel": "09-6294-1835",
+    "fax": "-",
+    "web": "https://www.turbo.co.th/"
+  },
+  {
     "symbol": "TVH",
     "name": "THAIVIVAT HOLDINGS PUBLIC COMPANY LIMITED",
     "market": "SET",
