@@ -864,6 +864,18 @@
     "web": "www.assetwise.co.th"
   },
   {
+    "symbol": "ATLAS",
+    "name": "Atlas Energy Public Company Limited",
+    "market": "SET",
+    "industry": "Resources",
+    "sector": "Energy & Utilities",
+    "address": "90 CW Tower A Building Ratchadaphisek Road, Huai Khwang Sub-district/Sub-area, Huai Khwang District/Area Bangkok",
+    "zip": "10310",
+    "tel": "08-0059-7044",
+    "fax": "0-2168-3379",
+    "web": "www.atlasenergy.co.th"
+  },
+  {
     "symbol": "ATP30",
     "name": "ATP30 PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -4440,18 +4452,6 @@
     "web": "www.samitivejthonburi.com"
   },
   {
-    "symbol": "KEX",
-    "name": "KEX EXPRESS (THAILAND) PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Services",
-    "sector": "Transportation & Logistics",
-    "address": "No. 548 One City Centre Building, 28th - 29th Floor, Room 2801 - 2806, 2901 - 2906, Phloen Chit Road, Lumpini Sub-district, Pathumwan District Bangkok",
-    "zip": "10330",
-    "tel": "0-2238-5558",
-    "fax": "0-2237-3752",
-    "web": "https://th.kerryexpress.com/th/home"
-  },
-  {
     "symbol": "KGEN",
     "name": "KING GEN PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -7711,9 +7711,9 @@
     "sector": "Energy & Utilities",
     "address": "636 MOO 11 SUKAPHIBAN 8 ROAD, TAMBOL NONGKHARM, AMPHOR SI RACHA Chonburi",
     "zip": "20230",
-    "tel": "0-3848-1552-5",
+    "tel": "0-3848-1555",
     "fax": "0-3848-1551",
-    "web": "www.sahacogen.com"
+    "web": "https://www.ratchpathana.com"
   },
   {
     "symbol": "SCGD",
@@ -10856,8 +10856,8 @@
     "address": "777 WHA TOWER, Unit 2101, 21st Floor, Moo 13, Debaratna Road (Bangna-Trad) KM.7, Bang Kaeo, Bang Phli Samut Prakarn",
     "zip": "10540",
     "tel": "0-2719-9557",
-    "fax": "0-2719-9553",
-    "web": "www.hemarajreit.com"
+    "fax": "-",
+    "web": "https://wha-ir.com/"
   },
   {
     "symbol": "WHART",

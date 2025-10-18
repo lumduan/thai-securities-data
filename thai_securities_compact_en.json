@@ -432,6 +432,12 @@
     "sector": "Property Development"
   },
   {
+    "symbol": "ATLAS",
+    "name": "Atlas Energy Public Company Limited",
+    "market": "SET",
+    "sector": "Energy & Utilities"
+  },
+  {
     "symbol": "ATP30",
     "name": "ATP30 PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -2218,12 +2224,6 @@
     "name": "THONBURI MEDICAL CENTRE PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Health Care Services"
-  },
-  {
-    "symbol": "KEX",
-    "name": "KEX EXPRESS (THAILAND) PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Transportation & Logistics"
   },
   {
     "symbol": "KGEN",
