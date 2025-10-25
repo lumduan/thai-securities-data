@@ -3768,6 +3768,18 @@
     "web": "https://www.icn.co.th"
   },
   {
+    "symbol": "IDG",
+    "name": "INDIGY PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Technology",
+    "sector": "-",
+    "address": "3 3 Promphan Building 3, Unit No.1105-1110 11th floor Soi Soi Ladprao 3, Chom Phon Sub-district/Sub-area, Chatuchak District/Area Bangkok",
+    "zip": "10900",
+    "tel": "0-2072-1900",
+    "fax": "-",
+    "web": "www.indigy.com"
+  },
+  {
     "symbol": "IFS",
     "name": "IFS CAPITAL (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -5086,6 +5098,18 @@
     "tel": "0-2238-0238, 08-3294-3045",
     "fax": "0-2237-1620",
     "web": "www.mandarin-bkk.com"
+  },
+  {
+    "symbol": "MASTEC",
+    "name": "Masstec Link Public Company Limited",
+    "market": "SET",
+    "industry": "Industrials",
+    "sector": "Industrial Materials & Machinery",
+    "address": "74 Soi Nak Niwat 48, Nak Niwat Road, Lat Phrao Sub-district/Sub-area, Lat Phrao District/Area Bangkok",
+    "zip": "10230",
+    "tel": "0-2942-1433",
+    "fax": "0-2942-1320",
+    "web": "https://www.massteclink.com/"
   },
   {
     "symbol": "MASTER",

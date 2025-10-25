@@ -3816,6 +3816,18 @@
     "web": "www.mandarin-bkk.com"
   },
   {
+    "symbol": "MASTEC",
+    "name": "Masstec Link Public Company Limited",
+    "market": "SET",
+    "industry": "Industrials",
+    "sector": "Industrial Materials & Machinery",
+    "address": "74 Soi Nak Niwat 48, Nak Niwat Road, Lat Phrao Sub-district/Sub-area, Lat Phrao District/Area Bangkok",
+    "zip": "10230",
+    "tel": "0-2942-1433",
+    "fax": "0-2942-1320",
+    "web": "https://www.massteclink.com/"
+  },
+  {
     "symbol": "MASTER",
     "name": "Master Style Public Company Limited",
     "market": "SET",

@@ -900,6 +900,18 @@
     "web": "www.i2enterprise.com"
   },
   {
+    "symbol": "IDG",
+    "name": "INDIGY PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Technology",
+    "sector": "-",
+    "address": "3 3 Promphan Building 3, Unit No.1105-1110 11th floor Soi Soi Ladprao 3, Chom Phon Sub-district/Sub-area, Chatuchak District/Area Bangkok",
+    "zip": "10900",
+    "tel": "0-2072-1900",
+    "fax": "-",
+    "web": "www.indigy.com"
+  },
+  {
     "symbol": "IIG",
     "name": "I&I GROUP PUBLIC COMPANY LIMITED",
     "market": "mai",

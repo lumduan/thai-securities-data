@@ -1884,6 +1884,12 @@
     "sector": "Information & Communication Technology"
   },
   {
+    "symbol": "IDG",
+    "name": "INDIGY PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
     "symbol": "IFS",
     "name": "IFS CAPITAL (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -2542,6 +2548,12 @@
     "name": "THE MANDARIN HOTEL PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Tourism & Leisure"
+  },
+  {
+    "symbol": "MASTEC",
+    "name": "Masstec Link Public Company Limited",
+    "market": "SET",
+    "sector": "Industrial Materials & Machinery"
   },
   {
     "symbol": "MASTER",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-10-24T07:00:10.123171",
-  "total_securities": 927,
+  "last_updated": "2025-10-25T07:00:10.661247",
+  "total_securities": 929,
   "markets": {
-    "SET": 700,
-    "mai": 227
+    "SET": 701,
+    "mai": 228
   },
   "sectors": {
-    "-": 227,
+    "-": 228,
     "Energy & Utilities": 62,
     "Property Development": 60,
     "Food & Beverage": 57,
@@ -19,9 +19,9 @@
     "Transportation & Logistics": 28,
     "Steel and Metal Products": 23,
     "Media & Publishing": 23,
-    "Construction Materials": 21,
-    "Industrial Materials & Machinery": 21,
+    "Industrial Materials & Machinery": 22,
     "Packaging": 21,
+    "Construction Materials": 21,
     "Automotive": 20,
     "Fashion": 18,
     "Tourism & Leisure": 17,
