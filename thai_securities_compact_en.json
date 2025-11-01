@@ -1,11 +1,5 @@
 [
   {
-    "symbol": "24CS",
-    "name": "Twenty-Four Con & Supply Public Company Limited",
-    "market": "mai",
-    "sector": "-"
-  },
-  {
     "symbol": "2S",
     "name": "2S METAL PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -1444,6 +1438,12 @@
     "name": "EMC PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Construction Services"
+  },
+  {
+    "symbol": "EMPIRE",
+    "name": "ORIGIN GLOBAL EMPIRE PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
   },
   {
     "symbol": "EP",
@@ -5396,6 +5396,12 @@
   {
     "symbol": "WARRIX",
     "name": "Warrix Sport Public Company Limited",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
+    "symbol": "WASH",
+    "name": "Laundry You Public Company Limited",
     "market": "mai",
     "sector": "-"
   },

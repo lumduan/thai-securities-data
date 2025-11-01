@@ -1,17 +1,5 @@
 [
   {
-    "symbol": "24CS",
-    "name": "Twenty-Four Con & Supply Public Company Limited",
-    "market": "mai",
-    "industry": "Property & Construction",
-    "sector": "-",
-    "address": "89 AIA Capital Center, 9th Floor, Unit 901 Ratchadaphisek Road, Din Daeng, Din Daeng Bangkok",
-    "zip": "10400",
-    "tel": "0-2248-1948",
-    "fax": "0-2248-1949",
-    "web": "www.24con-supply.com"
-  },
-  {
     "symbol": "88TH",
     "name": "88(Thailand) Public Company Limited",
     "market": "mai",
@@ -684,6 +672,18 @@
     "web": "www.eforl-aim.com"
   },
   {
+    "symbol": "EMPIRE",
+    "name": "ORIGIN GLOBAL EMPIRE PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Property & Construction",
+    "sector": "-",
+    "address": "89 AIA Capital Center, 9th Floor, Unit 901 Ratchadaphisek Road, Din Daeng, Din Daeng Bangkok",
+    "zip": "10400",
+    "tel": "0-2248-1948",
+    "fax": "0-2248-1949",
+    "web": "www.24con-supply.com"
+  },
+  {
     "symbol": "ETE",
     "name": "EASTERN TECHNICAL ENGINEERING PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -692,7 +692,7 @@
     "address": "88 Soi Yothin Phatthana, Klongchan, Bangkapi Bangkok",
     "zip": "10240",
     "tel": "0-2158-2000",
-    "fax": "0-2158-6148",
+    "fax": "-",
     "web": "www.eastern-groups.com"
   },
   {
@@ -1577,7 +1577,7 @@
     "market": "mai",
     "industry": "Property & Construction",
     "sector": "-",
-    "address": "36 Moo 7, New Samakkhi road, Bang Talat, Pak Kret Nonthaburi",
+    "address": "36 Moo 7, Bang Talat, Pak Kret Nonthaburi",
     "zip": "11120",
     "tel": "0-2965-5578-80,82-84 Ext.312",
     "fax": "0-2965-5584",
@@ -2638,6 +2638,18 @@
     "tel": "0-2117-1300",
     "fax": "-",
     "web": "www.warrix.co.th"
+  },
+  {
+    "symbol": "WASH",
+    "name": "Laundry You Public Company Limited",
+    "market": "mai",
+    "industry": "Services",
+    "sector": "-",
+    "address": "689 Moo 10, Samrong Nuea Sub-district/Sub-area, Mueang Samut Prakan District/Area Samut Prakarn",
+    "zip": "10270",
+    "tel": "0-2666-4646",
+    "fax": "-",
+    "web": "https://www.washxpressth.com/"
   },
   {
     "symbol": "WELL",

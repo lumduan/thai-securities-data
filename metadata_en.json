@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-10-31T07:00:08.470611",
-  "total_securities": 929,
+  "last_updated": "2025-11-01T07:00:10.315401",
+  "total_securities": 930,
   "markets": {
     "SET": 701,
-    "mai": 228
+    "mai": 229
   },
   "sectors": {
-    "-": 228,
+    "-": 229,
     "Energy & Utilities": 62,
     "Property Development": 60,
     "Food & Beverage": 57,
@@ -48,8 +48,8 @@
     "generated_by": "ThaiSecurities JSON Exporter",
     "files_exported": [
       "all",
-      "market_mai",
       "market_set",
+      "market_mai",
       "by_sector"
     ],
     "schema": {
