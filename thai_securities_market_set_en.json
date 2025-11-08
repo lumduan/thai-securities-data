@@ -2273,7 +2273,7 @@
     "market": "SET",
     "industry": "Services",
     "sector": "Transportation & Logistics",
-    "address": "88/8 Nonsee Road, Chong-nonsee Sub-district, Yannawa District Bangkok",
+    "address": "88/8 4th floor Nonsee Road, Chong-Nonsee, Yannawa Bangkok",
     "zip": "10120",
     "tel": "0-2123-1727",
     "fax": "-",
@@ -3408,6 +3408,18 @@
     "web": "https://bank.kkpfg.com/"
   },
   {
+    "symbol": "KLINIQ",
+    "name": "The Klinique Medical Clinic Public Company Limited",
+    "market": "SET",
+    "industry": "Services",
+    "sector": "Health Care Services",
+    "address": "No. 2922/296-299 Charn Issara Tower II, 27th Floor New Petchburi Road, Bang Kapi, Huai Khwang Bangkok",
+    "zip": "10310",
+    "tel": "0-2308-2034",
+    "fax": "-",
+    "web": "https://www.theklinique.com"
+  },
+  {
     "symbol": "KPNREIT",
     "name": "KPN Real Estate Investment Trust",
     "market": "SET",
@@ -4198,6 +4210,18 @@
     "tel": "0-2891-3088",
     "fax": "-",
     "web": "www.moshimoshi.co.th"
+  },
+  {
+    "symbol": "MRDIYT",
+    "name": "MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Services",
+    "sector": "Commerce",
+    "address": "777 12th Floor, WHA Tower Moo 13, Deberatna Road (Bangna-Trad) KM.7 Road, Bang Kaeo Sub-district/Subarea, Bang Phli District/Area Samut Prakarn",
+    "zip": "10540",
+    "tel": "0-2316-0004",
+    "fax": "-",
+    "web": "-"
   },
   {
     "symbol": "MSC",
@@ -6226,6 +6250,18 @@
     "tel": "0-2295-1000-8, 0-2295-1901-9",
     "fax": "0-2295-1009, 0-2295-1020",
     "web": "www.sahamit.co.th"
+  },
+  {
+    "symbol": "SMO",
+    "name": "SMOTHONG GROUP PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Agro & Food Industry",
+    "sector": "Agribusiness",
+    "address": "119/1 Moo 10, Prasong Sub-district/Sub-area, Tha Chana District/Area Surat Thani",
+    "zip": "84170",
+    "tel": "0-7795-1470",
+    "fax": "0-7795-1471",
+    "web": "www.smothonggroup.com"
   },
   {
     "symbol": "SMPC",

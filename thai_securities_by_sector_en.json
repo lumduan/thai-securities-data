@@ -1430,7 +1430,7 @@
       "zip": "10400",
       "tel": "0-2248-1948",
       "fax": "0-2248-1949",
-      "web": "www.24con-supply.com"
+      "web": "https://www.orgempire.com"
     },
     {
       "symbol": "ETE",
@@ -1654,7 +1654,7 @@
       "market": "mai",
       "industry": "Technology",
       "sector": "-",
-      "address": "3 3 Promphan Building 3, Unit No.1105-1110 11th floor Soi Soi Ladprao 3, Chom Phon Sub-district/Sub-area, Chatuchak District/Area Bangkok",
+      "address": "3 Promphan Building 3,Unit No.1105-1110 11th floor, Soi Ladprao 3, Chom Phon Sub-district, Chatuchak District Bangkok",
       "zip": "10900",
       "tel": "0-2072-1900",
       "fax": "-",
@@ -1901,18 +1901,6 @@
       "web": "www.kandksuper.com"
     },
     {
-      "symbol": "KLINIQ",
-      "name": "The Klinique Medical Clinic Public Company Limited",
-      "market": "mai",
-      "industry": "Services",
-      "sector": "-",
-      "address": "No. 2922/296-299 Charn Issara Tower II, 27th Floor New Petchburi Road, Bang Kapi, Huai Khwang Bangkok",
-      "zip": "10310",
-      "tel": "0-2308-2034",
-      "fax": "-",
-      "web": "https://www.theklinique.com"
-    },
-    {
       "symbol": "KOOL",
       "name": "CL VENTURE PUBLIC COMPANY LIMITED",
       "market": "mai",
@@ -2115,6 +2103,18 @@
       "tel": "0-2743-8787, 0-2743-8783",
       "fax": "-",
       "web": "http://www.mitsibleasing.com"
+    },
+    {
+      "symbol": "MMM",
+      "name": "MMM Capital Public Company Limited",
+      "market": "mai",
+      "industry": "Property & Construction",
+      "sector": "-",
+      "address": "89/2 89/2 Amornphan 205 Tower 1, 6th Floor Moo -, Soi Nathong, Ratchadaphisek Road, Din Daeng Subdistrict/Sub-area, Din Daeng District/Area Bangkok",
+      "zip": "10400",
+      "tel": "0-2005-5940",
+      "fax": "-",
+      "web": "https://www.mmmcapitalplc.com/"
     },
     {
       "symbol": "MOONG",
@@ -5032,7 +5032,7 @@
       "market": "SET",
       "industry": "Services",
       "sector": "Transportation & Logistics",
-      "address": "88/8 Nonsee Road, Chong-nonsee Sub-district, Yannawa District Bangkok",
+      "address": "88/8 4th floor Nonsee Road, Chong-Nonsee, Yannawa Bangkok",
       "zip": "10120",
       "tel": "0-2123-1727",
       "fax": "-",
@@ -6521,6 +6521,18 @@
       "web": "www.moshimoshi.co.th"
     },
     {
+      "symbol": "MRDIYT",
+      "name": "MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Services",
+      "sector": "Commerce",
+      "address": "777 12th Floor, WHA Tower Moo 13, Deberatna Road (Bangna-Trad) KM.7 Road, Bang Kaeo Sub-district/Subarea, Bang Phli District/Area Samut Prakarn",
+      "zip": "10540",
+      "tel": "0-2316-0004",
+      "fax": "-",
+      "web": "-"
+    },
+    {
       "symbol": "RS",
       "name": "RS PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -7461,6 +7473,18 @@
       "tel": "0-2438-0040-5",
       "fax": "0-2438-5642",
       "web": "www.samitivejthonburi.com"
+    },
+    {
+      "symbol": "KLINIQ",
+      "name": "The Klinique Medical Clinic Public Company Limited",
+      "market": "SET",
+      "industry": "Services",
+      "sector": "Health Care Services",
+      "address": "No. 2922/296-299 Charn Issara Tower II, 27th Floor New Petchburi Road, Bang Kapi, Huai Khwang Bangkok",
+      "zip": "10310",
+      "tel": "0-2308-2034",
+      "fax": "-",
+      "web": "https://www.theklinique.com"
     },
     {
       "symbol": "LPH",
@@ -11103,6 +11127,18 @@
       "tel": "0-3289-9881-4",
       "fax": "0-3289-9885",
       "web": "https://www.ppprime.co.th/"
+    },
+    {
+      "symbol": "SMO",
+      "name": "SMOTHONG GROUP PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Agro & Food Industry",
+      "sector": "Agribusiness",
+      "address": "119/1 Moo 10, Prasong Sub-district/Sub-area, Tha Chana District/Area Surat Thani",
+      "zip": "84170",
+      "tel": "0-7795-1470",
+      "fax": "0-7795-1471",
+      "web": "www.smothonggroup.com"
     },
     {
       "symbol": "STA",

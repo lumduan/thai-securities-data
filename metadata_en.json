@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-11-07T07:00:09.155966",
-  "total_securities": 930,
+  "last_updated": "2025-11-08T07:00:09.176510",
+  "total_securities": 933,
   "markets": {
-    "SET": 701,
+    "SET": 704,
     "mai": 229
   },
   "sectors": {
@@ -13,9 +13,9 @@
     "Property Fund & REITs": 56,
     "Finance & Securities": 42,
     "Information & Communication Technology": 39,
-    "Commerce": 33,
+    "Commerce": 34,
     "Construction Services": 32,
-    "Health Care Services": 28,
+    "Health Care Services": 29,
     "Transportation & Logistics": 28,
     "Steel and Metal Products": 23,
     "Media & Publishing": 23,
@@ -27,7 +27,7 @@
     "Tourism & Leisure": 17,
     "Personal Products & Pharmaceuticals": 17,
     "Insurance": 17,
-    "Agribusiness": 13,
+    "Agribusiness": 14,
     "Petrochemicals & Chemicals": 13,
     "Home & Office Products": 12,
     "Banking": 12,

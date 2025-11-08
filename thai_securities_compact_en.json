@@ -2282,8 +2282,8 @@
   {
     "symbol": "KLINIQ",
     "name": "The Klinique Medical Clinic Public Company Limited",
-    "market": "mai",
-    "sector": "-"
+    "market": "SET",
+    "sector": "Health Care Services"
   },
   {
     "symbol": "KOOL",
@@ -2748,6 +2748,12 @@
     "sector": "Finance & Securities"
   },
   {
+    "symbol": "MMM",
+    "name": "MMM Capital Public Company Limited",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
     "symbol": "MNIT",
     "name": "MFC-NICHADA THANI PROPERTY FUND",
     "market": "SET",
@@ -2806,6 +2812,12 @@
     "name": "MPJ Logistics Public Company Limited",
     "market": "mai",
     "sector": "-"
+  },
+  {
+    "symbol": "MRDIYT",
+    "name": "MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Commerce"
   },
   {
     "symbol": "MSC",
@@ -4138,6 +4150,12 @@
     "name": "SAHAMIT MACHINERY PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Steel and Metal Products"
+  },
+  {
+    "symbol": "SMO",
+    "name": "SMOTHONG GROUP PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Agribusiness"
   },
   {
     "symbol": "SMPC",

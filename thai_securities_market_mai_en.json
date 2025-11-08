@@ -681,7 +681,7 @@
     "zip": "10400",
     "tel": "0-2248-1948",
     "fax": "0-2248-1949",
-    "web": "www.24con-supply.com"
+    "web": "https://www.orgempire.com"
   },
   {
     "symbol": "ETE",
@@ -905,7 +905,7 @@
     "market": "mai",
     "industry": "Technology",
     "sector": "-",
-    "address": "3 3 Promphan Building 3, Unit No.1105-1110 11th floor Soi Soi Ladprao 3, Chom Phon Sub-district/Sub-area, Chatuchak District/Area Bangkok",
+    "address": "3 Promphan Building 3,Unit No.1105-1110 11th floor, Soi Ladprao 3, Chom Phon Sub-district, Chatuchak District Bangkok",
     "zip": "10900",
     "tel": "0-2072-1900",
     "fax": "-",
@@ -1152,18 +1152,6 @@
     "web": "www.kandksuper.com"
   },
   {
-    "symbol": "KLINIQ",
-    "name": "The Klinique Medical Clinic Public Company Limited",
-    "market": "mai",
-    "industry": "Services",
-    "sector": "-",
-    "address": "No. 2922/296-299 Charn Issara Tower II, 27th Floor New Petchburi Road, Bang Kapi, Huai Khwang Bangkok",
-    "zip": "10310",
-    "tel": "0-2308-2034",
-    "fax": "-",
-    "web": "https://www.theklinique.com"
-  },
-  {
     "symbol": "KOOL",
     "name": "CL VENTURE PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -1366,6 +1354,18 @@
     "tel": "0-2743-8787, 0-2743-8783",
     "fax": "-",
     "web": "http://www.mitsibleasing.com"
+  },
+  {
+    "symbol": "MMM",
+    "name": "MMM Capital Public Company Limited",
+    "market": "mai",
+    "industry": "Property & Construction",
+    "sector": "-",
+    "address": "89/2 89/2 Amornphan 205 Tower 1, 6th Floor Moo -, Soi Nathong, Ratchadaphisek Road, Din Daeng Subdistrict/Sub-area, Din Daeng District/Area Bangkok",
+    "zip": "10400",
+    "tel": "0-2005-5940",
+    "fax": "-",
+    "web": "https://www.mmmcapitalplc.com/"
   },
   {
     "symbol": "MOONG",
