@@ -2088,12 +2088,6 @@
     "sector": "Property Development"
   },
   {
-    "symbol": "JCKH",
-    "name": "JCK HOSPITALITY PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "sector": "-"
-  },
-  {
     "symbol": "JCT",
     "name": "JACK CHIA INDUSTRIES (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -3556,6 +3550,12 @@
     "name": "QUALITY CONSTRUCTION PRODUCTS PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Construction Materials"
+  },
+  {
+    "symbol": "QDC",
+    "name": "QUANTUM D C PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
   },
   {
     "symbol": "QH",

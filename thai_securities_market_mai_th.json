@@ -1020,18 +1020,6 @@
     "web": "www.jak.co.th"
   },
   {
-    "symbol": "JCKH",
-    "name": "บริษัท เจซีเค ฮอสพิทอลลิตี้ จำกัด (มหาชน)",
-    "market": "mai",
-    "industry": "เกษตรและอุตสาหกรรมอาหาร",
-    "sector": "-",
-    "address": "อาคาร TFD 18 ซอยสาทร 11 แยก 9 แขวงยานนาวา เขตสาทร กรุงเทพมหานคร",
-    "zip": "10120",
-    "tel": "0-2286-9959",
-    "fax": "-",
-    "web": "https://jckh-th.listedcompany.com"
-  },
-  {
     "symbol": "JPARK",
     "name": "บริษัท เจนก้องไกล จำกัด (มหาชน)",
     "market": "mai",
@@ -1798,6 +1786,18 @@
     "tel": "0-2318-4013",
     "fax": "0-2318-4014",
     "web": "www.premiertankcorp.com"
+  },
+  {
+    "symbol": "QDC",
+    "name": "บริษัท ควอนตัม ดี ซี จำกัด (มหาชน)",
+    "market": "mai",
+    "industry": "เกษตรและอุตสาหกรรมอาหาร",
+    "sector": "-",
+    "address": "อาคาร TFD 18 ซอยสาทร 11 แยก 9 แขวงยานนาวา เขตสาทร กรุงเทพมหานคร",
+    "zip": "10120",
+    "tel": "0-2286-9959",
+    "fax": "-",
+    "web": "https://jckh-th.listedcompany.com"
   },
   {
     "symbol": "QLT",

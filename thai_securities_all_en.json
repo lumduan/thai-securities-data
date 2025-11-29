@@ -3713,9 +3713,9 @@
     "market": "SET",
     "industry": "Property & Construction",
     "sector": "Property Fund & REITs",
-    "address": "No. 989, Kingbridge Tower, Floor 16, Room 1612, Rama 3 Road, Bangpongpang Sub-district, Yannawa District Bangkok",
+    "address": "No. 989, Rama 3 Road, Bangpongpang Sub-district, Yannawa District Bangkok",
     "zip": "10120",
-    "tel": "0-2095-1580",
+    "tel": "0-2294-9999 Ext. 1542",
     "fax": "-",
     "web": "www.hydrogenreit.com"
   },
@@ -4174,18 +4174,6 @@
     "tel": "0-2676-4031-6, 0-2676-3836-9",
     "fax": "0-2676-4038-9",
     "web": "www.jck.international"
-  },
-  {
-    "symbol": "JCKH",
-    "name": "JCK HOSPITALITY PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "industry": "Agro & Food Industry",
-    "sector": "-",
-    "address": "TFD Building No.18 Soi Sathorn 11, yaeg 9, Khwaeng yannava, Ket Sathorn Bangkok",
-    "zip": "10120",
-    "tel": "0-2286-9959",
-    "fax": "-",
-    "web": "https://jckh-th.listedcompany.com"
   },
   {
     "symbol": "JCT",
@@ -7114,6 +7102,18 @@
     "tel": "0-3522-1271, 0-3525-9134",
     "fax": "0-3521-2270, 0-3522-1273",
     "web": "www.qcon.co.th"
+  },
+  {
+    "symbol": "QDC",
+    "name": "QUANTUM D C PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Agro & Food Industry",
+    "sector": "-",
+    "address": "TFD Building No.18 Soi Sathorn 11, yaeg 9, Khwaeng yannava, Ket Sathorn Bangkok",
+    "zip": "10120",
+    "tel": "0-2286-9959",
+    "fax": "-",
+    "web": "https://jckh-th.listedcompany.com"
   },
   {
     "symbol": "QH",
