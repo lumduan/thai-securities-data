@@ -1596,18 +1596,6 @@
     "web": "www.bsmgroup.asia"
   },
   {
-    "symbol": "BSRC",
-    "name": "BANGCHAK SRIRACHA PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Resources",
-    "sector": "Energy & Utilities",
-    "address": "3195/21-29 Rama 4 Road, Klong Ton, Klong Toey District Bangkok",
-    "zip": "10110",
-    "tel": "0-2124-7999",
-    "fax": "0-2262-4800",
-    "web": "www.bsrc.co.th"
-  },
-  {
     "symbol": "BTC",
     "name": "THE BROOKER GROUP PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -5297,11 +5285,11 @@
     "market": "SET",
     "industry": "Financials",
     "sector": "Finance & Securities",
-    "address": "COLUMN TOWER, GROUND FLOOR & 21st-23rd FLOORS, 199 RATCHADAPISEK ROAD, KHLONG TOEI Bangkok",
-    "zip": "10110",
+    "address": "195 One Bangkok Tower 4, 16th - 17th Floor, Witthayu Road, Lumphini, Pathum Wan Bangkok",
+    "zip": "10330",
     "tel": "0-2649-2000",
-    "fax": "0-2649-2100, 0-2649-2111",
-    "web": "http://www.mfcfund.com"
+    "fax": "0-2649-2100,0-2649-2111",
+    "web": "https://www.mfcfund.com"
   },
   {
     "symbol": "MFEC",
@@ -5381,8 +5369,8 @@
     "market": "SET",
     "industry": "Property & Construction",
     "sector": "Property Fund & REITs",
-    "address": "No. 199 Column Tower, Ground Floor & 21-23 Floor, Ratchadaphisek Road, Klongtoey Sub-District, Klongtoey District Bangkok",
-    "zip": "10110",
+    "address": "MFC Asset Management Public Company Limited (Head Office) 195 One Bangkok Tower 4, 16th - 17th Floor, Witthayu Road, Lumphini, Pathum Wan Bangkok",
+    "zip": "10330",
     "tel": "0-2649-2000",
     "fax": "0-2649-2111",
     "web": "-"
