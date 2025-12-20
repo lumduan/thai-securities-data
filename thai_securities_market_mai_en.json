@@ -1524,6 +1524,18 @@
     "web": "https://www.newplus.co.th/"
   },
   {
+    "symbol": "NTF",
+    "name": "NTF INTERGROUP (THAILAND) PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Agro & Food Industry",
+    "sector": "-",
+    "address": "195 One Bangkok Tower 4, 12th Floor, Unit No. 1211-1213 Witthayu Road Road, Lumphini Sub-district/Subarea, Pathum Wan District/Area Bangkok",
+    "zip": "10330",
+    "tel": "08-2849-2445",
+    "fax": "-",
+    "web": "www.ntfintergroup.com"
+  },
+  {
     "symbol": "NTSC",
     "name": "Nutrition SC Public Company Limited",
     "market": "mai",
