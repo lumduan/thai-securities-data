@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-12-26T07:00:09.837838",
-  "total_securities": 933,
+  "last_updated": "2025-12-27T07:00:11.413584",
+  "total_securities": 932,
   "markets": {
-    "SET": 703,
+    "SET": 702,
     "mai": 230
   },
   "sectors": {
@@ -18,7 +18,7 @@
     "Health Care Services": 29,
     "Transportation & Logistics": 28,
     "Steel and Metal Products": 23,
-    "Media & Publishing": 23,
+    "Media & Publishing": 22,
     "Industrial Materials & Machinery": 22,
     "Packaging": 21,
     "Construction Materials": 21,
