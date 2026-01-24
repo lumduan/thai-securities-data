@@ -5856,18 +5856,6 @@
     "web": "www.wattanahospital.net"
   },
   {
-    "symbol": "NEWS",
-    "name": "NEWS NETWORK CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "industry": "Services",
-    "sector": "-",
-    "address": "944 Mitrtown Office Tower, 28th Floor, Units 2807-2810, Rama 4 Road, Wangmai, Pathumwan Bangkok",
-    "zip": "10330",
-    "tel": "0-2273-8351",
-    "fax": "0-2273-8359",
-    "web": "www.newsnetwork.co.th"
-  },
-  {
     "symbol": "NEX",
     "name": "NEX POINT PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -8542,6 +8530,18 @@
     "tel": "0-2617-6465,0-2050-5555-259",
     "fax": "-",
     "web": "-"
+  },
+  {
+    "symbol": "SPTX",
+    "name": "SPT X PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Services",
+    "sector": "-",
+    "address": "944 Mitrtown Office Tower, 28th Floor, Units 2807-2810, Rama 4 Road, Wangmai, Pathumwan Bangkok",
+    "zip": "10330",
+    "tel": "0-2273-8351",
+    "fax": "0-2273-8359",
+    "web": "www.newsnetwork.co.th"
   },
   {
     "symbol": "SPVI",

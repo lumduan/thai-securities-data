@@ -2928,12 +2928,6 @@
     "sector": "Health Care Services"
   },
   {
-    "symbol": "NEWS",
-    "name": "NEWS NETWORK CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "sector": "-"
-  },
-  {
     "symbol": "NEX",
     "name": "NEX POINT PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -4270,6 +4264,12 @@
     "name": "S PRIME GROWTH LEASEHOLD REAL ESTATE INVESTMENT TRUST",
     "market": "SET",
     "sector": "Property Fund & REITs"
+  },
+  {
+    "symbol": "SPTX",
+    "name": "SPT X PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
   },
   {
     "symbol": "SPVI",
