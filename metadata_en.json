@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-01-30T07:00:11.914563",
+  "last_updated": "2026-01-31T07:00:12.759848",
   "total_securities": 932,
   "markets": {
-    "SET": 702,
-    "mai": 230
+    "SET": 703,
+    "mai": 229
   },
   "sectors": {
-    "-": 230,
+    "-": 229,
+    "Property Development": 61,
     "Energy & Utilities": 61,
-    "Property Development": 60,
     "Food & Beverage": 57,
     "Property Fund & REITs": 56,
     "Finance & Securities": 42,

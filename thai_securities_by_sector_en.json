@@ -3041,18 +3041,6 @@
       "web": "www.thaienger.com"
     },
     {
-      "symbol": "TITLE",
-      "name": "RHOM BHO PROPERTY PUBLIC COMPANY LIMITED",
-      "market": "mai",
-      "industry": "Property & Construction",
-      "sector": "-",
-      "address": "444 - 444/1 Pracha Uthit Road, Huaykwang, Huaykwang District Bangkok",
-      "zip": "10310",
-      "tel": "0-2103-6444",
-      "fax": "0-2103-2444",
-      "web": "www.thetitleresidence.com"
-    },
-    {
       "symbol": "TM",
       "name": "TECHNO MEDICAL PUBLIC COMPANY LIMITED",
       "market": "mai",
@@ -4193,6 +4181,18 @@
       "tel": "0-2030-1399",
       "fax": "-",
       "web": "www.nusasiri.com"
+    },
+    {
+      "symbol": "TITLE",
+      "name": "RHOM BHO PROPERTY PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Property & Construction",
+      "sector": "Property Development",
+      "address": "444 - 444/1 Pracha Uthit Road, Huaykwang, Huaykwang District Bangkok",
+      "zip": "10310",
+      "tel": "0-2103-6444",
+      "fax": "0-2103-2444",
+      "web": "www.thetitleresidence.com"
     },
     {
       "symbol": "UV",
