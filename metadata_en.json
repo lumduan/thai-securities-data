@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-03T07:00:08.335817",
-  "total_securities": 932,
+  "last_updated": "2026-04-04T07:00:09.312043",
+  "total_securities": 933,
   "markets": {
-    "SET": 703,
+    "SET": 704,
     "mai": 229
   },
   "sectors": {
@@ -19,8 +19,8 @@
     "Transportation & Logistics": 28,
     "Steel and Metal Products": 23,
     "Media & Publishing": 22,
+    "Packaging": 22,
     "Industrial Materials & Machinery": 22,
-    "Packaging": 21,
     "Construction Materials": 21,
     "Automotive": 20,
     "Fashion": 18,
