@@ -344,7 +344,7 @@ curl -s https://raw.githubusercontent.com/lumduan/thai-securities-data/main/thai
 
 **📊 API Status**: ✅ **Active** • **🔄 Auto-Updates**: Daily • **📈 Securities**: 922 • **🌐 Languages**: Thai & English • **⚡ Capacity**: 10K+ req/min
 
-**Last Repository Update**: 2026-04-08 • **Data Updates**: Daily • **Uptime**: 99.9%
+**Last Repository Update**: 2026-04-09 • **Data Updates**: Daily • **Uptime**: 99.9%
 
 ---
 
