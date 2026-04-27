@@ -1,0 +1,30 @@
+[project]
+name = "thai-securities-data"
+version = "0.1.0"
+description = "Automated pipeline to fetch, clean, and export Thai stock market securities data"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.2",
+    "requests>=2.32",
+    "pymonad>=2.4",
+    "lxml>=5.3",
+    "html5lib>=1.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "responses>=0.25",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=services --cov=config --cov-report=term-missing"
+
+[tool.hatch.build.targets.wheel]
+packages = ["services", "scripts"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
