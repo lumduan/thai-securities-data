@@ -720,18 +720,6 @@
     "web": "WWW.BEGISTICS.CO.TH"
   },
   {
-    "symbol": "B-WORK",
-    "name": "BUALUANG OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST",
-    "market": "SET",
-    "industry": "Property & Construction",
-    "sector": "Property Fund & REITs",
-    "address": "175 Sathorn City Tower, 7th, 21st and 26th Floor, South Sathorn Road, Sathorn Bangkok",
-    "zip": "10120",
-    "tel": "0-2674-6488",
-    "fax": "0-2679-5996",
-    "web": "http://www.bworkreit.com"
-  },
-  {
     "symbol": "B52",
     "name": "B-52 CAPITAL PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -1306,6 +1294,18 @@
     "tel": "0-2012-7888",
     "fax": "0-2012-7889",
     "web": "https://www.bwg.co.th"
+  },
+  {
+    "symbol": "B-WORK",
+    "name": "BUALUANG OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market": "SET",
+    "industry": "Property & Construction",
+    "sector": "Property Fund & REITs",
+    "address": "175 Sathorn City Tower, 7th, 21st and 26th Floor, South Sathorn Road, Sathorn Bangkok",
+    "zip": "10120",
+    "tel": "0-2674-6488",
+    "fax": "0-2679-5996",
+    "web": "http://www.bworkreit.com"
   },
   {
     "symbol": "BYD",
@@ -3720,42 +3720,6 @@
     "web": "www.mkrestaurant.com"
   },
   {
-    "symbol": "M-CHAI",
-    "name": "MAHACHAI HOSPITAL PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Services",
-    "sector": "Health Care Services",
-    "address": "927/43 SETHAKIJ 1 ROAD, MAHACHAI, AMPHOE MUANG Samut Sakhon",
-    "zip": "74000",
-    "tel": "0-3442-4990-4",
-    "fax": "0-3481-0782",
-    "web": "http://www.mahachaihospital.com"
-  },
-  {
-    "symbol": "M-PAT",
-    "name": "MFC PATONG HERITAGE PROPERTY FUND",
-    "market": "SET",
-    "industry": "Property & Construction",
-    "sector": "Property Fund & REITs",
-    "address": "MFC Asset Management Public Company Limited (Head Office) 195 One Bangkok Tower 4, 16th - 17th Floor, Witthayu Road, Lumphini, Pathum Wan Bangkok",
-    "zip": "10330",
-    "tel": "0-2649-2000",
-    "fax": "0-2649-2100",
-    "web": "www.mfcfund.com"
-  },
-  {
-    "symbol": "M-STOR",
-    "name": "MFC-STRATEGIC STORAGE FUND",
-    "market": "SET",
-    "industry": "Property & Construction",
-    "sector": "Property Fund & REITs",
-    "address": "195 One Bangkok Tower 4, 16th-17th Floor, Witthayu Road, Lumphini, Pathum Wan Bangkok",
-    "zip": "10330",
-    "tel": "0-2649-2000",
-    "fax": "0-2649-2100",
-    "web": "www.mfcfund.com"
-  },
-  {
     "symbol": "MADAME",
     "name": "MADAME BIOSCIENCE PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -3874,6 +3838,18 @@
     "tel": "0-2329-1051-6",
     "fax": "0-2727-7287",
     "web": "www.mcgroupnet.com"
+  },
+  {
+    "symbol": "M-CHAI",
+    "name": "MAHACHAI HOSPITAL PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Services",
+    "sector": "Health Care Services",
+    "address": "927/43 SETHAKIJ 1 ROAD, MAHACHAI, AMPHOE MUANG Samut Sakhon",
+    "zip": "74000",
+    "tel": "0-3442-4990-4",
+    "fax": "0-3481-0782",
+    "web": "http://www.mahachaihospital.com"
   },
   {
     "symbol": "MCOT",
@@ -4188,6 +4164,18 @@
     "web": "www.moshimoshi.co.th"
   },
   {
+    "symbol": "M-PAT",
+    "name": "MFC PATONG HERITAGE PROPERTY FUND",
+    "market": "SET",
+    "industry": "Property & Construction",
+    "sector": "Property Fund & REITs",
+    "address": "MFC Asset Management Public Company Limited (Head Office) 195 One Bangkok Tower 4, 16th - 17th Floor, Witthayu Road, Lumphini, Pathum Wan Bangkok",
+    "zip": "10330",
+    "tel": "0-2649-2000",
+    "fax": "0-2649-2100",
+    "web": "www.mfcfund.com"
+  },
+  {
     "symbol": "MRDIYT",
     "name": "MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -4222,6 +4210,18 @@
     "tel": "0-2658-6300",
     "fax": "0-2658-6301",
     "web": "www.maybank.co.th"
+  },
+  {
+    "symbol": "M-STOR",
+    "name": "MFC-STRATEGIC STORAGE FUND",
+    "market": "SET",
+    "industry": "Property & Construction",
+    "sector": "Property Fund & REITs",
+    "address": "195 One Bangkok Tower 4, 16th-17th Floor, Witthayu Road, Lumphini, Pathum Wan Bangkok",
+    "zip": "10330",
+    "tel": "0-2649-2000",
+    "fax": "0-2649-2100",
+    "web": "www.mfcfund.com"
   },
   {
     "symbol": "MTC",
@@ -5928,18 +5928,6 @@
     "web": "www.siameastsolutions.com"
   },
   {
-    "symbol": "SE-ED",
-    "name": "SE-EDUCATION PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Services",
-    "sector": "Media & Publishing",
-    "address": "1858/87-90 Debaratna Road, Bangna Tai, Bangna Bangkok",
-    "zip": "10260",
-    "tel": "0-2826-8000",
-    "fax": "0-2826-8999",
-    "web": "www.se-ed.com"
-  },
-  {
     "symbol": "SEAFCO",
     "name": "SEAFCO PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -5962,6 +5950,18 @@
     "tel": "0-2398-9850-1",
     "fax": "0-2398-9852",
     "web": "www.seaoilthailand.com"
+  },
+  {
+    "symbol": "SE-ED",
+    "name": "SE-EDUCATION PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Services",
+    "sector": "Media & Publishing",
+    "address": "1858/87-90 Debaratna Road, Bangna Tai, Bangna Bangkok",
+    "zip": "10260",
+    "tel": "0-2826-8000",
+    "fax": "0-2826-8999",
+    "web": "www.se-ed.com"
   },
   {
     "symbol": "SELIC",
@@ -6257,7 +6257,7 @@
     "market": "SET",
     "industry": "Technology",
     "sector": "Electronic Components",
-    "address": "586 Moo 2, Bang Pa-In Industrial Estate, Klongjig, Bang Pa-In Ayutthya",
+    "address": "605-606 Moo 2, Klongjig, Bang Pa-In Ayutthya",
     "zip": "13160",
     "tel": "0-3525-8555",
     "fax": "0-3522-1778",
@@ -8014,18 +8014,6 @@
     "tel": "0-2703-6471-6",
     "fax": "0-2703-6477,0-2703-7640",
     "web": "www.uniqueplastic.com"
-  },
-  {
-    "symbol": "UOBKH",
-    "name": "UOB KAY HIAN SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Financials",
-    "sector": "Finance & Securities",
-    "address": "130-132 Sindhorn Tower 1, 3rd Floor, Wireless Road, Lumpini, Pathumwan Bangkok",
-    "zip": "10330",
-    "tel": "0-2659-8000,0-2090-3333",
-    "fax": "-",
-    "web": "https://www.utrade.co.th/"
   },
   {
     "symbol": "UP",

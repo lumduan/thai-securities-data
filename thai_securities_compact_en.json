@@ -480,12 +480,6 @@
     "sector": "Transportation & Logistics"
   },
   {
-    "symbol": "B-WORK",
-    "name": "BUALUANG OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST",
-    "market": "SET",
-    "sector": "Property Fund & REITs"
-  },
-  {
     "symbol": "B52",
     "name": "B-52 CAPITAL PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -850,6 +844,12 @@
     "name": "BETTER WORLD GREEN PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Professional Services"
+  },
+  {
+    "symbol": "B-WORK",
+    "name": "BUALUANG OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+    "market": "SET",
+    "sector": "Property Fund & REITs"
   },
   {
     "symbol": "BYD",
@@ -2484,24 +2484,6 @@
     "sector": "Food & Beverage"
   },
   {
-    "symbol": "M-CHAI",
-    "name": "MAHACHAI HOSPITAL PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Health Care Services"
-  },
-  {
-    "symbol": "M-PAT",
-    "name": "MFC PATONG HERITAGE PROPERTY FUND",
-    "market": "SET",
-    "sector": "Property Fund & REITs"
-  },
-  {
-    "symbol": "M-STOR",
-    "name": "MFC-STRATEGIC STORAGE FUND",
-    "market": "SET",
-    "sector": "Property Fund & REITs"
-  },
-  {
     "symbol": "MADAME",
     "name": "MADAME BIOSCIENCE PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -2578,6 +2560,12 @@
     "name": "Market Connections Asia Public Company Limited",
     "market": "mai",
     "sector": "-"
+  },
+  {
+    "symbol": "M-CHAI",
+    "name": "MAHACHAI HOSPITAL PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Health Care Services"
   },
   {
     "symbol": "MCOT",
@@ -2790,6 +2778,12 @@
     "sector": "-"
   },
   {
+    "symbol": "M-PAT",
+    "name": "MFC PATONG HERITAGE PROPERTY FUND",
+    "market": "SET",
+    "sector": "Property Fund & REITs"
+  },
+  {
     "symbol": "MPJ",
     "name": "MPJ Logistics Public Company Limited",
     "market": "mai",
@@ -2812,6 +2806,12 @@
     "name": "MAYBANK SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Finance & Securities"
+  },
+  {
+    "symbol": "M-STOR",
+    "name": "MFC-STRATEGIC STORAGE FUND",
+    "market": "SET",
+    "sector": "Property Fund & REITs"
   },
   {
     "symbol": "MTC",
@@ -3924,12 +3924,6 @@
     "sector": "Industrial Materials & Machinery"
   },
   {
-    "symbol": "SE-ED",
-    "name": "SE-EDUCATION PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Media & Publishing"
-  },
-  {
     "symbol": "SEAFCO",
     "name": "SEAFCO PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -3946,6 +3940,12 @@
     "name": "NFORCE SECURE PUBLIC COMPANY LIMITED",
     "market": "mai",
     "sector": "-"
+  },
+  {
+    "symbol": "SE-ED",
+    "name": "SE-EDUCATION PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Media & Publishing"
   },
   {
     "symbol": "SEI",
@@ -5296,12 +5296,6 @@
     "name": "Unique Plastic Industry Public Company Limited",
     "market": "SET",
     "sector": "Packaging"
-  },
-  {
-    "symbol": "UOBKH",
-    "name": "UOB KAY HIAN SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Finance & Securities"
   },
   {
     "symbol": "UP",
