@@ -33,7 +33,7 @@ jobs:
       - name: Update README timestamp
         run: |
           TODAY=$(date -u '+%Y-%m-%d')
-          sed -i "s/Last Repository Update**: [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/Last Repository Update**: $TODAY/g" README.md
+          sed -i "s/Last Repository Update\*\*: [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/Last Repository Update**: $TODAY/g" README.md
 
       - name: Commit and push
         run: |
