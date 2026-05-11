@@ -2860,7 +2860,7 @@
     },
     {
       "symbol": "TL",
-      "name": "TECHLEAD NPN PUBLIC COMPANY LIMITED",
+      "name": "TECHLEAD NEXT PUBLIC COMPANY LIMITED",
       "market": "SET",
       "industry": "Agro & Food Industry",
       "sector": "Agribusiness",
@@ -4110,10 +4110,10 @@
       "market": "SET",
       "industry": "Property & Construction",
       "sector": "Construction Services",
-      "address": "BANGNA TOWER A, 2/3 MOO 14, BANGNA-TRAD ROAD, K.M. 6.5, TAMBOL BANGKAEW, AMPHOE BANGPLEE Samut Prakarn",
-      "zip": "10540",
-      "tel": "0-2730-2100, 0-2751-9455-74",
-      "fax": "0-2751-9487, 0-2751-9484-5",
+      "address": "1796 Thepharat Road (Bangna-Trad Road Km. 4) Bang Na Tai Subdistrict, Bang Na District Bangkok",
+      "zip": "10260",
+      "tel": "0-2730-2100",
+      "fax": "-",
       "web": "www.nawarat.co.th"
     },
     {
@@ -8128,8 +8128,8 @@
       "market": "SET",
       "industry": "Services",
       "sector": "Media & Publishing",
-      "address": "379 Soi Sathu Pradit 19, Sathu Pradit Road, Chong Nonsi, Yannawa Bangkok",
-      "zip": "10120",
+      "address": "999/9, Mu 2, Bang Bo Sub-district, Bang Bo District Samut Prakarn",
+      "zip": "10560",
       "tel": "0-2669-4200-9",
       "fax": "-",
       "web": "http://www.matchinggroup.com"
@@ -9232,10 +9232,10 @@
       "market": "SET",
       "industry": "Property & Construction",
       "sector": "Property Development",
-      "address": "No.944 Mitrtown Office Tower, 22nd - 23rd Floor, Rama 4 Road, Wang Mai Sub-district, Pathum Wan District Bangkok",
+      "address": "No. 193 One Bangkok Tower 5, 7th - 8th Floor, Witthayu Road, Lumphini Sub-District, Pathum Wan District Bangkok",
       "zip": "10330",
       "tel": "0-2483-0000",
-      "fax": "0-2078-1970",
+      "fax": "-",
       "web": "https://www.frasersproperty.co.th"
     },
     {
@@ -9906,7 +9906,7 @@
       "market": "SET",
       "industry": "Property & Construction",
       "sector": "Property Fund & REITs",
-      "address": "No.944 Mitrtown Office Tower, 22nd - 23rd Floor, Rama 4 Road, Wang Mai Sub-district, Pathum Wan District Bangkok",
+      "address": "No. 193 One Bangkok Tower 5, 7th- 8rh Floor, Witthayu Road, Lumphini Sub-district, Pathum wan District Bangkok",
       "zip": "10330",
       "tel": "0-2483-0000",
       "fax": "0-2483-0592",
@@ -9954,9 +9954,9 @@
       "market": "SET",
       "industry": "Property & Construction",
       "sector": "Property Fund & REITs",
-      "address": "22nd Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan Bangkok",
+      "address": "Frasers Property Commercial Asset Management (Thailand) Company Limited No. 193 One Bangkok Tower 5, 7th - 8th Floor Witthayu Road, Lumphini Sub-District, Pathum Wan District Bangkok",
       "zip": "10330",
-      "tel": "0-2483-0000",
+      "tel": "0-2080-5792",
       "fax": "-",
       "web": "www.gvreit.com"
     },
