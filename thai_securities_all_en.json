@@ -840,6 +840,18 @@
     "web": "www.asiaplusgroup.co.th"
   },
   {
+    "symbol": "ASTR",
+    "name": "ASTRA ENTERPRISE PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Services",
+    "sector": "-",
+    "address": "15, Soi Phatthanakan 56, Suanluang Sub-District, Suanluang District Bangkok",
+    "zip": "10250",
+    "tel": "0-2321-6999",
+    "fax": "0-2321-1789",
+    "web": "www.dv8.co.th"
+  },
+  {
     "symbol": "ASW",
     "name": "ASSETWISE PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -1229,7 +1241,7 @@
     "market": "SET",
     "industry": "Resources",
     "sector": "Energy & Utilities",
-    "address": "No. 5 Grungthepgreetha Road, Hua Mhark, Bang Kapi Bangkok",
+    "address": "No. 5 Krungthepkreetha Road, Huamark, Bangkapi Bangkok",
     "zip": "10240",
     "tel": "0-2710-3400",
     "fax": "0-2379-4245",
@@ -2736,18 +2748,6 @@
     "web": "http://www.dusit.com"
   },
   {
-    "symbol": "DV8",
-    "name": "DV8 PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "industry": "Services",
-    "sector": "-",
-    "address": "15, Soi Phatthanakan 56, Suanluang Sub-District, Suanluang District Bangkok",
-    "zip": "10250",
-    "tel": "0-2321-6999",
-    "fax": "0-2321-1789",
-    "web": "www.dv8.co.th"
-  },
-  {
     "symbol": "EA",
     "name": "ENERGY ABSOLUTE PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -3562,18 +3562,6 @@
     "tel": "0-2318-9744",
     "fax": "0-2318-9744 Ext. 4000",
     "web": "www.harn.co.th"
-  },
-  {
-    "symbol": "HEALTH",
-    "name": "HEALTH EMPIRE CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "industry": "Services",
-    "sector": "-",
-    "address": "24, Soi Ramkhamhaeng 22 (Chittranukhro), Ramkhamhaeng Road, Hua Mak Subdistrict, Bang Kapi District Bangkok",
-    "zip": "10240",
-    "tel": "0-2514-5000",
-    "fax": "-",
-    "web": "https://www.healthempire.co.th/"
   },
   {
     "symbol": "HENG",
@@ -6984,18 +6972,6 @@
     "web": "www.premiertankcorp.com"
   },
   {
-    "symbol": "PTECH",
-    "name": "PLUS TECH INNOVATION PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Services",
-    "sector": "Media & Publishing",
-    "address": "41/1 SOI WATSUANSOM, PUCHAOSAMINGPHRAI ROAD, PHRA PRADAENG Samut Prakarn",
-    "zip": "10130",
-    "tel": "0-2394-4374-5, 0-2754-2650",
-    "fax": "0-2384-0917",
-    "web": "www.plustech.co.th"
-  },
-  {
     "symbol": "PTG",
     "name": "PTG ENERGY PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -9108,6 +9084,18 @@
     "web": "www.tbn.co.th"
   },
   {
+    "symbol": "TBSP",
+    "name": "TBSP PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Services",
+    "sector": "Media & Publishing",
+    "address": "41/1 SOI WATSUANSOM, PUCHAOSAMINGPHRAI ROAD, PHRA PRADAENG Samut Prakarn",
+    "zip": "10130",
+    "tel": "0-2394-4374-5, 0-2754-2650",
+    "fax": "0-2384-0917",
+    "web": "www.plustech.co.th"
+  },
+  {
     "symbol": "TC",
     "name": "TROPICAL CANNING (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -9621,7 +9609,7 @@
     "zip": "10110",
     "tel": "0-2392-9750",
     "fax": "-",
-    "web": "https://www.techleadnpn.co.th/"
+    "web": "https://www.techleadnext.com/"
   },
   {
     "symbol": "TLHPF",
@@ -10714,6 +10702,18 @@
     "tel": "0-2273-8884",
     "fax": "0-2273-8883",
     "web": "www.vgi.co.th"
+  },
+  {
+    "symbol": "VIBE",
+    "name": "VIBE SYNERGY GROUP PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Services",
+    "sector": "-",
+    "address": "24, Soi Ramkhamhaeng 22 (Chittranukhro), Ramkhamhaeng Road, Hua Mak Subdistrict, Bang Kapi District Bangkok",
+    "zip": "10240",
+    "tel": "0-2514-5000",
+    "fax": "-",
+    "web": "https://www.vibesynergygroup.com"
   },
   {
     "symbol": "VIBHA",

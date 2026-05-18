@@ -204,6 +204,18 @@
     "web": "http://www.asnbroker.co.th"
   },
   {
+    "symbol": "ASTR",
+    "name": "ASTRA ENTERPRISE PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Services",
+    "sector": "-",
+    "address": "15, Soi Phatthanakan 56, Suanluang Sub-District, Suanluang District Bangkok",
+    "zip": "10250",
+    "tel": "0-2321-6999",
+    "fax": "0-2321-1789",
+    "web": "www.dv8.co.th"
+  },
+  {
     "symbol": "ATP30",
     "name": "ATP30 PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -636,18 +648,6 @@
     "web": "www.deltapaint.co.th"
   },
   {
-    "symbol": "DV8",
-    "name": "DV8 PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "industry": "Services",
-    "sector": "-",
-    "address": "15, Soi Phatthanakan 56, Suanluang Sub-District, Suanluang District Bangkok",
-    "zip": "10250",
-    "tel": "0-2321-6999",
-    "fax": "0-2321-1789",
-    "web": "www.dv8.co.th"
-  },
-  {
     "symbol": "ECF",
     "name": "EAST COAST FURNITECH PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -838,18 +838,6 @@
     "tel": "0-2318-9744",
     "fax": "0-2318-9744 Ext. 4000",
     "web": "www.harn.co.th"
-  },
-  {
-    "symbol": "HEALTH",
-    "name": "HEALTH EMPIRE CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "industry": "Services",
-    "sector": "-",
-    "address": "24, Soi Ramkhamhaeng 22 (Chittranukhro), Ramkhamhaeng Road, Hua Mak Subdistrict, Bang Kapi District Bangkok",
-    "zip": "10240",
-    "tel": "0-2514-5000",
-    "fax": "-",
-    "web": "https://www.healthempire.co.th/"
   },
   {
     "symbol": "HL",
@@ -2602,6 +2590,18 @@
     "tel": "0-2661-7979",
     "fax": "0-2661-7969",
     "web": "www.vintcom.co.th"
+  },
+  {
+    "symbol": "VIBE",
+    "name": "VIBE SYNERGY GROUP PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Services",
+    "sector": "-",
+    "address": "24, Soi Ramkhamhaeng 22 (Chittranukhro), Ramkhamhaeng Road, Hua Mak Subdistrict, Bang Kapi District Bangkok",
+    "zip": "10240",
+    "tel": "0-2514-5000",
+    "fax": "-",
+    "web": "https://www.vibesynergygroup.com"
   },
   {
     "symbol": "VL",

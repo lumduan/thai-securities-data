@@ -965,7 +965,7 @@
     "market": "SET",
     "industry": "Resources",
     "sector": "Energy & Utilities",
-    "address": "No. 5 Grungthepgreetha Road, Hua Mhark, Bang Kapi Bangkok",
+    "address": "No. 5 Krungthepkreetha Road, Huamark, Bangkapi Bangkok",
     "zip": "10240",
     "tel": "0-2710-3400",
     "fax": "0-2379-4245",
@@ -5196,18 +5196,6 @@
     "web": "www.premier-technology.co.th"
   },
   {
-    "symbol": "PTECH",
-    "name": "PLUS TECH INNOVATION PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Services",
-    "sector": "Media & Publishing",
-    "address": "41/1 SOI WATSUANSOM, PUCHAOSAMINGPHRAI ROAD, PHRA PRADAENG Samut Prakarn",
-    "zip": "10130",
-    "tel": "0-2394-4374-5, 0-2754-2650",
-    "fax": "0-2384-0917",
-    "web": "www.plustech.co.th"
-  },
-  {
     "symbol": "PTG",
     "name": "PTG ENERGY PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -6864,6 +6852,18 @@
     "web": "http://www.tipcoasphalt.com"
   },
   {
+    "symbol": "TBSP",
+    "name": "TBSP PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Services",
+    "sector": "Media & Publishing",
+    "address": "41/1 SOI WATSUANSOM, PUCHAOSAMINGPHRAI ROAD, PHRA PRADAENG Samut Prakarn",
+    "zip": "10130",
+    "tel": "0-2394-4374-5, 0-2754-2650",
+    "fax": "0-2384-0917",
+    "web": "www.plustech.co.th"
+  },
+  {
     "symbol": "TC",
     "name": "TROPICAL CANNING (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -7329,7 +7329,7 @@
     "zip": "10110",
     "tel": "0-2392-9750",
     "fax": "-",
-    "web": "https://www.techleadnpn.co.th/"
+    "web": "https://www.techleadnext.com/"
   },
   {
     "symbol": "TLHPF",

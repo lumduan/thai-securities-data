@@ -420,6 +420,12 @@
     "sector": "Finance & Securities"
   },
   {
+    "symbol": "ASTR",
+    "name": "ASTRA ENTERPRISE PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
     "symbol": "ASW",
     "name": "ASSETWISE PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -1368,12 +1374,6 @@
     "sector": "Tourism & Leisure"
   },
   {
-    "symbol": "DV8",
-    "name": "DV8 PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "sector": "-"
-  },
-  {
     "symbol": "EA",
     "name": "ENERGY ABSOLUTE PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -1778,12 +1778,6 @@
   {
     "symbol": "HARN",
     "name": "HARN ENGINEERING SOLUTIONS PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "sector": "-"
-  },
-  {
-    "symbol": "HEALTH",
-    "name": "HEALTH EMPIRE CORPORATION PUBLIC COMPANY LIMITED",
     "market": "mai",
     "sector": "-"
   },
@@ -3492,12 +3486,6 @@
     "sector": "-"
   },
   {
-    "symbol": "PTECH",
-    "name": "PLUS TECH INNOVATION PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Media & Publishing"
-  },
-  {
     "symbol": "PTG",
     "name": "PTG ENERGY PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -4554,6 +4542,12 @@
     "sector": "-"
   },
   {
+    "symbol": "TBSP",
+    "name": "TBSP PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Media & Publishing"
+  },
+  {
     "symbol": "TC",
     "name": "TROPICAL CANNING (THAILAND) PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -5356,6 +5350,12 @@
     "name": "VGI PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Media & Publishing"
+  },
+  {
+    "symbol": "VIBE",
+    "name": "VIBE SYNERGY GROUP PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
   },
   {
     "symbol": "VIBHA",
