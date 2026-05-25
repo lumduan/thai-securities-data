@@ -1507,7 +1507,7 @@
   },
   {
     "symbol": "FE",
-    "name": "FAR EAST FAME LINE DDB PUBLIC COMPANY LIMITED",
+    "name": "FAR EAST FAME LINE PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Media & Publishing"
   },
@@ -4444,12 +4444,6 @@
     "name": "GOLDEN LIME PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Petrochemicals & Chemicals"
-  },
-  {
-    "symbol": "SVI",
-    "name": "SVI PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Electronic Components"
   },
   {
     "symbol": "SVOA",

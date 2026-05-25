@@ -3013,7 +3013,7 @@
   },
   {
     "symbol": "FE",
-    "name": "FAR EAST FAME LINE DDB PUBLIC COMPANY LIMITED",
+    "name": "FAR EAST FAME LINE PUBLIC COMPANY LIMITED",
     "market": "SET",
     "industry": "Services",
     "sector": "Media & Publishing",
@@ -4901,10 +4901,10 @@
     "market": "SET",
     "industry": "Agro & Food Industry",
     "sector": "Food & Beverage",
-    "address": "64 Soi Bangna-Trad 25, BANG NA Bangkok",
+    "address": "No. 989 AIA East Gateway Building 19th Floor, Rooms 1901?1906 and 1912 Debaratna Road, Bangna Nuea Subdistrict Bangna District Bangkok",
     "zip": "10260",
-    "tel": "0-2361-8959-70",
-    "fax": "0-2361-8988-9",
+    "tel": "0-2361-8959-63",
+    "fax": "0-2361-8989",
     "web": "www.lamsoon.co.th"
   },
   {
@@ -8892,18 +8892,6 @@
     "web": "www.goldenlime.co.th"
   },
   {
-    "symbol": "SVI",
-    "name": "SVI PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Technology",
-    "sector": "Electronic Components",
-    "address": "No. 141-142 Moo 5, Tiwanon Road Bangkadi, Muang Pathum Thani",
-    "zip": "12000",
-    "tel": "0-2105-0456",
-    "fax": "0-2105-0466",
-    "web": "www.svi.co.th"
-  },
-  {
     "symbol": "SVOA",
     "name": "SVOA PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -10613,10 +10601,10 @@
     "market": "SET",
     "industry": "Agro & Food Industry",
     "sector": "Agribusiness",
-    "address": "64, 1st Floor, Soi Bangna-Trad 25, BANG NA Bangkok",
+    "address": "No. 989 AIA East Gateway Building 19th Floor, Rooms 1901-1906 and 1912 Debaratna Road, Bangna Nuea Subdistrict Bangna District Bangkok",
     "zip": "10260",
-    "tel": "0-2744-1046-8",
-    "fax": "0-2744-1049",
+    "tel": "0-2744-1046",
+    "fax": "0-2361-8989",
     "web": "www.upoic.co.th"
   },
   {
