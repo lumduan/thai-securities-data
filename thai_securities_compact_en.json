@@ -345,7 +345,7 @@
     "symbol": "AQUA",
     "name": "AQUA CORPORATION PUBLIC COMPANY LIMITED",
     "market": "SET",
-    "sector": "Media & Publishing"
+    "sector": "Food & Beverage"
   },
   {
     "symbol": "ARIN",
@@ -375,7 +375,7 @@
     "symbol": "ASAP",
     "name": "SYNERGETIC AUTO PERFORMANCE PUBLIC COMPANY LIMITED",
     "market": "SET",
-    "sector": "Finance & Securities"
+    "sector": "Automotive"
   },
   {
     "symbol": "ASEFA",
@@ -1887,7 +1887,7 @@
     "symbol": "IHL",
     "name": "INTERHIDES PUBLIC COMPANY LIMITED",
     "market": "SET",
-    "sector": "Automotive"
+    "sector": "Fashion"
   },
   {
     "symbol": "IIG",
@@ -2901,7 +2901,7 @@
     "symbol": "NEP",
     "name": "NEP REALTY AND INDUSTRY PUBLIC COMPANY LIMITED",
     "market": "SET",
-    "sector": "Packaging"
+    "sector": "Fashion"
   },
   {
     "symbol": "NER",
@@ -4797,7 +4797,7 @@
     "symbol": "TL",
     "name": "TECHLEAD NEXT PUBLIC COMPANY LIMITED",
     "market": "SET",
-    "sector": "Agribusiness"
+    "sector": "Information & Communication Technology"
   },
   {
     "symbol": "TLHPF",
