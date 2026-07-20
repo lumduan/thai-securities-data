@@ -1020,7 +1020,7 @@
     "web": "www.bam.co.th"
   },
   {
-    "symbol": "BANPU",
+    "symbol": "BANPUU",
     "name": "BANPU PUBLIC COMPANY LIMITED",
     "market": "SET",
     "industry": "Resources",
@@ -8515,9 +8515,9 @@
     "sector": "-",
     "address": "944 Mitrtown Office Tower, 28th Floor, Units 2807-2810, Rama 4 Road, Wangmai, Pathumwan Bangkok",
     "zip": "10330",
-    "tel": "0-2273-8351",
-    "fax": "0-2273-8359",
-    "web": "www.newsnetwork.co.th"
+    "tel": "08-1358-5614",
+    "fax": "-",
+    "web": "https://www.sptx.co.th"
   },
   {
     "symbol": "SPVI",
@@ -9377,9 +9377,9 @@
     "market": "SET",
     "industry": "Industrials",
     "sector": "Steel and Metal Products",
-    "address": "1401 Ekkachai Road, Bangbon Tai Sub-district, Bangbon District Bangkok",
-    "zip": "10150",
-    "tel": "0-2894-8889-90",
+    "address": "7/4,7/6 Moo 1 Ekkachai Road, Khaerai, Krathumbaen Samut Sakhon",
+    "zip": "74110",
+    "tel": "0-2894-8889",
     "fax": "0-2408-0272-4",
     "web": "www.thesteel.co.th"
   },
