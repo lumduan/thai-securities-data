@@ -3318,6 +3318,12 @@
     "sector": "Transportation & Logistics"
   },
   {
+    "symbol": "POWER",
+    "name": "POWER SOLUTION TECHNOLOGIES PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
     "symbol": "PPM",
     "name": "PORN PROM METAL PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -3466,12 +3472,6 @@
     "name": "P.S.P.Specialties Public Company Limited",
     "market": "SET",
     "sector": "Industrial Materials & Machinery"
-  },
-  {
-    "symbol": "PSTC",
-    "name": "POWER SOLUTION TECHNOLOGIES PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "sector": "-"
   },
   {
     "symbol": "PT",

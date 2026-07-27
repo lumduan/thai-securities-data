@@ -6636,6 +6636,18 @@
     "web": "http://sahathaiterminal.com/"
   },
   {
+    "symbol": "POWER",
+    "name": "POWER SOLUTION TECHNOLOGIES PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "industry": "Resources",
+    "sector": "-",
+    "address": "No.389 PSTC Building, Vibhavadi Rangsit Road, Samsen Nai Subdistrict, Phaya Thai District Bangkok",
+    "zip": "10400",
+    "tel": "0-2526-9999",
+    "fax": "0-2408-6235",
+    "web": "http://www.pst.co.th"
+  },
+  {
     "symbol": "PPM",
     "name": "PORN PROM METAL PUBLIC COMPANY LIMITED",
     "market": "mai",
@@ -6934,18 +6946,6 @@
     "tel": "0-2434-0540",
     "fax": "0-2433-6016",
     "web": "www.psp.co.th"
-  },
-  {
-    "symbol": "PSTC",
-    "name": "POWER SOLUTION TECHNOLOGIES PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "industry": "Resources",
-    "sector": "-",
-    "address": "No.389 PSTC Building, Vibhavadi Rangsit Road, Samsen Nai Subdistrict, Phaya Thai District Bangkok",
-    "zip": "10400",
-    "tel": "0-2526-9999",
-    "fax": "0-2408-6235",
-    "web": "http://www.pst.co.th"
   },
   {
     "symbol": "PT",
@@ -10365,7 +10365,7 @@
     "zip": "10230",
     "tel": "0-2666-0999",
     "fax": "0-2666-0488",
-    "web": "http://www.tvdirect.tv"
+    "web": "https://www.tvdh.co.th"
   },
   {
     "symbol": "TVH",
@@ -11057,8 +11057,8 @@
     "market": "SET",
     "industry": "Agro & Food Industry",
     "sector": "Food & Beverage",
-    "address": "No. 304, Vanit Place Building A, Room No. 1803, 18th Floor, Ari, Phaholyothin Road, Samsen Nai Sub-district, Phaya Thai District Bangkok",
-    "zip": "10400",
+    "address": "No. 4/102, Moo 11, Lat Sawai Subdistrict, Lam Luk Ka District Pathum Thani",
+    "zip": "12150",
     "tel": "0-2278-5456",
     "fax": "-",
     "web": "http://www.xbio.co.th"
