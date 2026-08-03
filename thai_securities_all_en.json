@@ -1020,18 +1020,6 @@
     "web": "www.bam.co.th"
   },
   {
-    "symbol": "BANPUU",
-    "name": "BANPU PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Resources",
-    "sector": "Energy & Utilities",
-    "address": "THANAPOOM TOWER BLDG., FLOOR 27, 1550 NEW PETCHABURI ROAD, MAKKASAN, RATCHATHEWI Bangkok",
-    "zip": "10400",
-    "tel": "0-2694-6600",
-    "fax": "0-2207-0696",
-    "web": "http://www.banpu.com"
-  },
-  {
     "symbol": "BAREIT",
     "name": "BA Airport Leasehold Real Estate Investment Trust",
     "market": "SET",
@@ -1486,18 +1474,6 @@
     "tel": "0-2657-3999",
     "fax": "0-2657-3900-1",
     "web": "www.BOL.co.th"
-  },
-  {
-    "symbol": "BPP",
-    "name": "BANPU POWER PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Resources",
-    "sector": "Energy & Utilities",
-    "address": "26th Floor, Thanapoon Tower, 1550 New Petchburi Road, Makkasan Sub-district, Ratchathewi District Bangkok",
-    "zip": "10400",
-    "tel": "0-2007-6000",
-    "fax": "0-2007-6060",
-    "web": "www.banpupower.com"
   },
   {
     "symbol": "BPS",
@@ -4301,8 +4277,8 @@
     "market": "SET",
     "industry": "Financials",
     "sector": "Banking",
-    "address": "No. 400/22 Phahon Yothin Road, Sam Sen Nai Sub-District, Phaya Thai District Bangkok",
-    "zip": "10400",
+    "address": "No. 1 Soi Rat Burana 27/1, Rat Burana Road, Rat Burana Sub-District, Rat Burana District Bangkok",
+    "zip": "10140",
     "tel": "0-2222-0000",
     "fax": "0-2470-1144",
     "web": "www.kasikornbank.com"
@@ -4537,7 +4513,7 @@
   },
   {
     "symbol": "KPNREIT",
-    "name": "KPN Real Estate Investment Trust",
+    "name": "KPN FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
     "market": "SET",
     "industry": "Property & Construction",
     "sector": "Property Fund & REITs",
@@ -7217,7 +7193,7 @@
     "market": "mai",
     "industry": "Technology",
     "sector": "-",
-    "address": "No.51 Major Tower Rama 9 - Ramkumhang Building 17th Floor, Room No.1701-1706, Rama 9 Road, Hua Mak Sub-district, Bangkapi District Bangkok",
+    "address": "51 JL Tower, 17th Floor Unit 1701-1706 Rama 9 Road, Huamak, Bangkapi Bangkok",
     "zip": "10240",
     "tel": "0-2016-6789",
     "fax": "0-2016-6901",

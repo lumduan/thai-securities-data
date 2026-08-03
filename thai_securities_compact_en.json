@@ -510,12 +510,6 @@
     "sector": "Finance & Securities"
   },
   {
-    "symbol": "BANPUU",
-    "name": "BANPU PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Energy & Utilities"
-  },
-  {
     "symbol": "BAREIT",
     "name": "BA Airport Leasehold Real Estate Investment Trust",
     "market": "SET",
@@ -742,12 +736,6 @@
     "name": "BUSINESS ONLINE PUBLIC COMPANY LIMITED",
     "market": "mai",
     "sector": "-"
-  },
-  {
-    "symbol": "BPP",
-    "name": "BANPU POWER PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Energy & Utilities"
   },
   {
     "symbol": "BPS",
@@ -2269,7 +2257,7 @@
   },
   {
     "symbol": "KPNREIT",
-    "name": "KPN Real Estate Investment Trust",
+    "name": "KPN FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
     "market": "SET",
     "sector": "Property Fund & REITs"
   },
