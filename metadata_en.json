@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-07T02:06:00.084030",
-  "total_securities": 929,
+  "last_updated": "2026-08-10T00:56:42.394877",
+  "total_securities": 930,
   "markets": {
-    "SET": 700,
+    "SET": 701,
     "mai": 229
   },
   "sectors": {
@@ -14,7 +14,7 @@
     "Construction Materials": 21,
     "Construction Services": 32,
     "Electronic Components": 7,
-    "Energy & Utilities": 59,
+    "Energy & Utilities": 60,
     "Fashion": 20,
     "Finance & Securities": 40,
     "Food & Beverage": 58,

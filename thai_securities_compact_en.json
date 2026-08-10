@@ -510,6 +510,12 @@
     "sector": "Finance & Securities"
   },
   {
+    "symbol": "BANPU",
+    "name": "BANPU PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Energy & Utilities"
+  },
+  {
     "symbol": "BAREIT",
     "name": "BA Airport Leasehold Real Estate Investment Trust",
     "market": "SET",

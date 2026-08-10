@@ -3602,7 +3602,7 @@
       "market": "SET",
       "industry": "Services",
       "sector": "Commerce",
-      "address": "27 RS Group Bldg., Tower A, Prasert-Manukitch Road, Sena Nikhom, Chatuchak Bangkok",
+      "address": "27 Chetchot Building, Tower A Prasert-Manukitch Road, Sena Nikhom, Chatuchak Bangkok",
       "zip": "10900",
       "tel": "0-2037-8888",
       "fax": "-",
@@ -4366,8 +4366,8 @@
       "sector": "Electronic Components",
       "address": "909 Soi 9, Moo 4, E.P.Z., Bangpoo Industrial Estate, Phraek Sa Sub-District, Mueang Samut Prakarn District Samut Prakarn",
       "zip": "10280",
-      "tel": "0-2709-3200",
-      "fax": "0-2324-0243",
+      "tel": "0-2709-2800",
+      "fax": "0-2781-9695",
       "web": "http://www.deltathailand.com"
     },
     {
@@ -4527,6 +4527,18 @@
       "tel": "0-2834-8900",
       "fax": "0-2834-8999",
       "web": "www.bafsthai.com"
+    },
+    {
+      "symbol": "BANPU",
+      "name": "BANPU PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Resources",
+      "sector": "Energy & Utilities",
+      "address": "27th Floor, Thanapoom Tower, 1550, New Petchburi Road, Makkasan, Ratchathewi Bangkok",
+      "zip": "10400",
+      "tel": "0-2694-6600",
+      "fax": "-",
+      "web": "www.banpu.com"
     },
     {
       "symbol": "BBGI",
