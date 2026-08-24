@@ -516,7 +516,7 @@
     "web": "http://www.cmo-group.com"
   },
   {
-    "symbol": "COLOR",
+    "symbol": "COLOUR",
     "name": "SALEE COLOUR PUBLIC COMPANY LIMITED",
     "market": "mai",
     "industry": "Industrial",
@@ -1582,6 +1582,18 @@
     "tel": "-",
     "fax": "-",
     "web": "www.peerforyou.co.th"
+  },
+  {
+    "symbol": "PHAT",
+    "name": "Phatra Group Public Company Limited",
+    "market": "mai",
+    "industry": "Agro & Food Industry",
+    "sector": "-",
+    "address": "368 Moo 4, Khao Phanom Sub-district/Sub-area, Khao Phanom District/Area Krabi",
+    "zip": "81140",
+    "tel": "0-7568-0427-9",
+    "fax": "0-7568-0426",
+    "web": "https://www.phatragroup.co.th/"
   },
   {
     "symbol": "PHOL",

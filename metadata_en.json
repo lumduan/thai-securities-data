@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-21T00:41:07.572546",
-  "total_securities": 930,
+  "last_updated": "2026-08-24T00:39:47.976310",
+  "total_securities": 931,
   "markets": {
     "SET": 701,
-    "mai": 229
+    "mai": 230
   },
   "sectors": {
-    "-": 229,
+    "-": 230,
     "Agribusiness": 13,
     "Automotive": 20,
     "Banking": 12,

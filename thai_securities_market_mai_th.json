@@ -516,7 +516,7 @@
     "web": "http://www.cmo-group.com"
   },
   {
-    "symbol": "COLOR",
+    "symbol": "COLOUR",
     "name": "บริษัท สาลี่ คัลเล่อร์ จำกัด (มหาชน)",
     "market": "mai",
     "industry": "สินค้าอุตสาหกรรม",
@@ -1582,6 +1582,18 @@
     "tel": "-",
     "fax": "-",
     "web": "www.peerforyou.co.th"
+  },
+  {
+    "symbol": "PHAT",
+    "name": "บริษัท กลุ่มภัทร จำกัด (มหาชน)",
+    "market": "mai",
+    "industry": "เกษตรและอุตสาหกรรมอาหาร",
+    "sector": "-",
+    "address": "เลขที่ 368 หมู่ที่ 4 ตำบล/แขวง เขาพนม อำเภอ/เขต เขาพนม กระบี่",
+    "zip": "81140",
+    "tel": "0-7568-0427-9",
+    "fax": "0-7568-0426",
+    "web": "https://www.phatragroup.co.th/"
   },
   {
     "symbol": "PHOL",
