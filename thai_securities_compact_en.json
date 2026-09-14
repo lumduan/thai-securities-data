@@ -1002,12 +1002,6 @@
     "sector": "-"
   },
   {
-    "symbol": "CIMBT",
-    "name": "CIMB THAI BANK PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Banking"
-  },
-  {
     "symbol": "CITY",
     "name": "CITY STEEL PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -1666,12 +1660,6 @@
     "name": "G J STEEL PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Steel and Metal Products"
-  },
-  {
-    "symbol": "GLAND",
-    "name": "GRAND CANAL LAND PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Property Development"
   },
   {
     "symbol": "GLOBAL",
@@ -2440,12 +2428,6 @@
     "name": "L.P.N. DEVELOPMENT PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Property Development"
-  },
-  {
-    "symbol": "LRH",
-    "name": "LAGUNA RESORTS & HOTELS PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Tourism & Leisure"
   },
   {
     "symbol": "LST",

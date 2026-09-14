@@ -3199,18 +3199,6 @@
       "web": "www.bangkokbank.com"
     },
     {
-      "symbol": "CIMBT",
-      "name": "CIMB THAI BANK PUBLIC COMPANY LIMITED",
-      "market": "SET",
-      "industry": "Financials",
-      "sector": "Banking",
-      "address": "44, LANGSUAN ROAD, LUMPINI SUBDISTRICT, PATHUMWAN DISTRICT, Bangkok",
-      "zip": "10330",
-      "tel": "0-2626-7000,0-2657-3000 ext. 0,0-2638-8000",
-      "fax": "0-2657-3333",
-      "web": "http://www.cimbthai.com"
-    },
-    {
       "symbol": "CREDIT",
       "name": "THAI CREDIT BANK PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -9239,18 +9227,6 @@
       "web": "https://www.frasersproperty.co.th"
     },
     {
-      "symbol": "GLAND",
-      "name": "GRAND CANAL LAND PUBLIC COMPANY LIMITED",
-      "market": "SET",
-      "industry": "Property & Construction",
-      "sector": "Property Development",
-      "address": "No. 161 Rama 9 Road, Huay Kwang Sub District, Huay Kwang District Bangkok",
-      "zip": "10310",
-      "tel": "0-2246-2323",
-      "fax": "0-2247-1082",
-      "web": "http://www.grandcanalland.com"
-    },
-    {
       "symbol": "J",
       "name": "JAS ASSET PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -10779,18 +10755,6 @@
       "tel": "0-2204-9900",
       "fax": "0-2204-9996-9",
       "web": "http://www.grandeasset.com"
-    },
-    {
-      "symbol": "LRH",
-      "name": "LAGUNA RESORTS & HOTELS PUBLIC COMPANY LIMITED",
-      "market": "SET",
-      "industry": "Services",
-      "sector": "Tourism & Leisure",
-      "address": "No. 21/9, 21/31 and 21/33, Thai Wah Tower 1, 5th and 12th Floor, South Sathorn Road, Tungmahamek, Sathorn Bangkok",
-      "zip": "10120",
-      "tel": "0-2677-4455",
-      "fax": "0-2285-0733",
-      "web": "www.lagunaresorts.com"
     },
     {
       "symbol": "MANRIN",
