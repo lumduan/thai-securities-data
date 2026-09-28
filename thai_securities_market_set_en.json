@@ -2616,6 +2616,18 @@
     "web": "www.one-asset.com"
   },
   {
+    "symbol": "GST",
+    "name": "GULF SPACE TECHNOLOGY PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Technology",
+    "sector": "Information & Communication Technology",
+    "address": "87/1 Capital Tower, 23rd Floor, Wireless Road, Lumpini, Pathumwan Bangkok",
+    "zip": "10330",
+    "tel": "0-2591-0736-49",
+    "fax": "0-2591-0705, 0-2299-5252",
+    "web": "www.thaicom.net"
+  },
+  {
     "symbol": "GSTEEL",
     "name": "G STEEL PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -5779,7 +5791,7 @@
     "sector": "Construction Materials",
     "address": "1 Siam Cement Road, Bang Su, Bang Su Bangkok",
     "zip": "10800",
-    "tel": "0-2586-3333,0-2586-5474",
+    "tel": "0-2586-1088",
     "fax": "-",
     "web": "www.scgdecor.com"
   },
@@ -7054,18 +7066,6 @@
     "tel": "0-2431-9000",
     "fax": "-",
     "web": "www.ratchthani.com"
-  },
-  {
-    "symbol": "THCOM",
-    "name": "THAICOM PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Technology",
-    "sector": "Information & Communication Technology",
-    "address": "87/1 Capital Tower, 23rd Floor, Wireless Road, Lumpini, Pathumwan Bangkok",
-    "zip": "10330",
-    "tel": "0-2591-0736-49",
-    "fax": "0-2591-0705, 0-2299-5252",
-    "web": "www.thaicom.net"
   },
   {
     "symbol": "THE",

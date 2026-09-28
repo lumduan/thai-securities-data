@@ -1710,6 +1710,12 @@
     "sector": "Property Fund & REITs"
   },
   {
+    "symbol": "GST",
+    "name": "GULF SPACE TECHNOLOGY PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Information & Communication Technology"
+  },
+  {
     "symbol": "GSTEEL",
     "name": "G STEEL PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -4666,12 +4672,6 @@
     "name": "RATCHTHANI LEASING PUBLIC COMPANY LIMITED",
     "market": "SET",
     "sector": "Finance & Securities"
-  },
-  {
-    "symbol": "THCOM",
-    "name": "THAICOM PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Information & Communication Technology"
   },
   {
     "symbol": "THE",

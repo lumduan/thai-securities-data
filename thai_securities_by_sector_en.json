@@ -2626,7 +2626,7 @@
       "zip": "10240",
       "tel": "0-2514-5000",
       "fax": "-",
-      "web": "https://www.vibesynergygroup.com"
+      "web": "https://www.vibe.co.th"
     },
     {
       "symbol": "VL",
@@ -3846,7 +3846,7 @@
       "sector": "Construction Materials",
       "address": "1 Siam Cement Road, Bang Su, Bang Su Bangkok",
       "zip": "10800",
-      "tel": "0-2586-3333,0-2586-5474",
+      "tel": "0-2586-1088",
       "fax": "-",
       "web": "www.scgdecor.com"
     },
@@ -7495,6 +7495,18 @@
       "web": "www.g-able.com"
     },
     {
+      "symbol": "GST",
+      "name": "GULF SPACE TECHNOLOGY PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Technology",
+      "sector": "Information & Communication Technology",
+      "address": "87/1 Capital Tower, 23rd Floor, Wireless Road, Lumpini, Pathumwan Bangkok",
+      "zip": "10330",
+      "tel": "0-2591-0736-49",
+      "fax": "0-2591-0705, 0-2299-5252",
+      "web": "www.thaicom.net"
+    },
+    {
       "symbol": "HUMAN",
       "name": "HUMANICA PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -7757,18 +7769,6 @@
       "tel": "0-2553-8888",
       "fax": "0-2578-8181",
       "web": "http://www.synnex.co.th"
-    },
-    {
-      "symbol": "THCOM",
-      "name": "THAICOM PUBLIC COMPANY LIMITED",
-      "market": "SET",
-      "industry": "Technology",
-      "sector": "Information & Communication Technology",
-      "address": "87/1 Capital Tower, 23rd Floor, Wireless Road, Lumpini, Pathumwan Bangkok",
-      "zip": "10330",
-      "tel": "0-2591-0736-49",
-      "fax": "0-2591-0705, 0-2299-5252",
-      "web": "www.thaicom.net"
     },
     {
       "symbol": "TKC",
