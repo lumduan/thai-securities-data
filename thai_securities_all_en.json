@@ -2486,9 +2486,9 @@
   {
     "symbol": "D",
     "name": "DENTAL CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "mai",
+    "market": "SET",
     "industry": "Services",
-    "sector": "-",
+    "sector": "Health Care Services",
     "address": "512, 5th Floor, Soi Nathong, Din Daeng Subdistrict, Din Daeng District Bangkok",
     "zip": "10400",
     "tel": "0-2245-7198",
@@ -9454,6 +9454,18 @@
     "tel": "0-2886-7608",
     "fax": "0-2886-7609",
     "web": "www.thaienger.com"
+  },
+  {
+    "symbol": "TIPAK",
+    "name": "THAI PACKAGING INDUSTRY PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "industry": "Industrials",
+    "sector": "Packaging",
+    "address": "44/5 Moo 3, Khok Krabue Sub-district/Sub-area, Mueang Samut Sakhon District/Area Samut Sakhon",
+    "zip": "74000",
+    "tel": "0-3482-4122-8",
+    "fax": "-",
+    "web": "https://www.tipak.co.th/"
   },
   {
     "symbol": "TIPCO",

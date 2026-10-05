@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-02T03:05:55.365436",
-  "total_securities": 929,
+  "last_updated": "2026-10-05T02:59:23.093175",
+  "total_securities": 930,
   "markets": {
-    "SET": 698,
-    "mai": 231
+    "SET": 700,
+    "mai": 230
   },
   "sectors": {
-    "-": 231,
+    "-": 230,
     "Agribusiness": 13,
     "Automotive": 20,
     "Banking": 11,
@@ -18,13 +18,13 @@
     "Fashion": 20,
     "Finance & Securities": 40,
     "Food & Beverage": 58,
-    "Health Care Services": 29,
+    "Health Care Services": 30,
     "Home & Office Products": 12,
     "Industrial Materials & Machinery": 22,
     "Information & Communication Technology": 40,
     "Insurance": 17,
     "Media & Publishing": 21,
-    "Packaging": 21,
+    "Packaging": 22,
     "Paper & Printing Materials": 1,
     "Personal Products & Pharmaceuticals": 17,
     "Petrochemicals & Chemicals": 13,

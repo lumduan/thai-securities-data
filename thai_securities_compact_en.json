@@ -1244,8 +1244,8 @@
   {
     "symbol": "D",
     "name": "DENTAL CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "sector": "-"
+    "market": "SET",
+    "sector": "Health Care Services"
   },
   {
     "symbol": "DCC",
@@ -4726,6 +4726,12 @@
     "name": "THAI ENGER HOLDING PUBLIC COMPANY LIMITED",
     "market": "mai",
     "sector": "-"
+  },
+  {
+    "symbol": "TIPAK",
+    "name": "THAI PACKAGING INDUSTRY PUBLIC COMPANY LIMITED",
+    "market": "SET",
+    "sector": "Packaging"
   },
   {
     "symbol": "TIPCO",

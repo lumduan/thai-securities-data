@@ -577,18 +577,6 @@
       "web": "www.cmrd.co.th"
     },
     {
-      "symbol": "D",
-      "name": "DENTAL CORPORATION PUBLIC COMPANY LIMITED",
-      "market": "mai",
-      "industry": "Services",
-      "sector": "-",
-      "address": "512, 5th Floor, Soi Nathong, Din Daeng Subdistrict, Din Daeng District Bangkok",
-      "zip": "10400",
-      "tel": "0-2245-7198",
-      "fax": "-",
-      "web": "www.dentalcorpthailand.com"
-    },
-    {
       "symbol": "DEXON",
       "name": "DEXON Technology Public Company Limited",
       "market": "mai",
@@ -6673,6 +6661,18 @@
       "web": "http://www.lanna-hospital.com"
     },
     {
+      "symbol": "D",
+      "name": "DENTAL CORPORATION PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Services",
+      "sector": "Health Care Services",
+      "address": "512, 5th Floor, Soi Nathong, Din Daeng Subdistrict, Din Daeng District Bangkok",
+      "zip": "10400",
+      "tel": "0-2245-7198",
+      "fax": "-",
+      "web": "www.dentalcorpthailand.com"
+    },
+    {
       "symbol": "EKH",
       "name": "EKACHAI MEDICAL CARE PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -8471,6 +8471,18 @@
       "tel": "0-2273-8333",
       "fax": "0-2617-6868-70",
       "web": "www.thantawan.com"
+    },
+    {
+      "symbol": "TIPAK",
+      "name": "THAI PACKAGING INDUSTRY PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Industrials",
+      "sector": "Packaging",
+      "address": "44/5 Moo 3, Khok Krabue Sub-district/Sub-area, Mueang Samut Sakhon District/Area Samut Sakhon",
+      "zip": "74000",
+      "tel": "0-3482-4122-8",
+      "fax": "-",
+      "web": "https://www.tipak.co.th/"
     },
     {
       "symbol": "TMD",
