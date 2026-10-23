@@ -300,18 +300,6 @@
     "web": "http://www.ekarat.co.th"
   },
   {
-    "symbol": "AKS",
-    "name": "AKS CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "industry": "Property & Construction",
-    "sector": "Property Development",
-    "address": "102 Rimklong Bangkapi Road, Bangkapi, Huai Khwang Bangkok",
-    "zip": "10310",
-    "tel": "0-2033-5555",
-    "fax": "0-2033-5566",
-    "web": "www.akscorporation.co.th"
-  },
-  {
     "symbol": "ALLA",
     "name": "ALLA PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -1769,10 +1757,10 @@
     "market": "SET",
     "industry": "Services",
     "sector": "Commerce",
-    "address": "159/6 Sermmit Tower Floor 2nd Room 201-202 Sukhumvit 21(Asoke) Klongtoeynuea Wattana Bangkok",
-    "zip": "10110",
-    "tel": "0-2665-2950-3",
-    "fax": "0-2665-2954",
+    "address": "Vnet ESG Park, 3rd and 4th Floor, 188 Moo 5, Soi Chaeng Watthana-Pak Kret 39, Ban Mai, Pak Kret Nonthaburi",
+    "zip": "11120",
+    "tel": "0-2589-2555",
+    "fax": "-",
     "web": "www.copperwired.co.th"
   },
   {

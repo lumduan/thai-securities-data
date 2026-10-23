@@ -198,12 +198,6 @@
     "sector": "Industrial Materials & Machinery"
   },
   {
-    "symbol": "AKS",
-    "name": "AKS CORPORATION PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Property Development"
-  },
-  {
     "symbol": "ALLA",
     "name": "ALLA PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -3566,6 +3560,12 @@
   {
     "symbol": "QTCG",
     "name": "QTCG PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
+    "symbol": "QUICK",
+    "name": "QUICK TRANSFORMATION PUBLIC COMPANY LIMITED",
     "market": "mai",
     "sector": "-"
   },

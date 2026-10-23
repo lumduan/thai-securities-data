@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-22T02:25:25.966132",
+  "last_updated": "2026-10-23T02:30:30.283788",
   "total_securities": 930,
   "markets": {
-    "SET": 700,
-    "mai": 230
+    "SET": 699,
+    "mai": 231
   },
   "sectors": {
-    "-": 230,
+    "-": 231,
     "Agribusiness": 13,
     "Automotive": 20,
     "Banking": 11,
@@ -29,7 +29,7 @@
     "Personal Products & Pharmaceuticals": 17,
     "Petrochemicals & Chemicals": 13,
     "Professional Services": 6,
-    "Property Development": 60,
+    "Property Development": 59,
     "Property Fund & REITs": 56,
     "Steel and Metal Products": 23,
     "Tourism & Leisure": 16,
