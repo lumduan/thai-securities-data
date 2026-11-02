@@ -1993,18 +1993,6 @@
       "web": "www.sgfcap.com"
     },
     {
-      "symbol": "SICT",
-      "name": "SILICON CRAFT TECHNOLOGY PUBLIC COMPANY LIMITED",
-      "market": "mai",
-      "industry": "Technology",
-      "sector": "-",
-      "address": "No. 40 Thetsabanrangsannua Rd., Ladyao, Chatuchak Bangkok",
-      "zip": "10900",
-      "tel": "0-2589-9991",
-      "fax": "0-2589-8881",
-      "web": "www.sic.co.th"
-    },
-    {
       "symbol": "SIMAT",
       "name": "SIMAT TECHNOLOGIES PUBLIC COMPANY LIMITED",
       "market": "mai",
@@ -2195,18 +2183,6 @@
       "tel": "0-2320-2288",
       "fax": "0-2320-2670",
       "web": "www.sherwood.co.th"
-    },
-    {
-      "symbol": "TACC",
-      "name": "T.A.C. CONSUMER PUBLIC COMPANY LIMITED",
-      "market": "mai",
-      "industry": "Agro & Food Industry",
-      "sector": "-",
-      "address": "No.1023 MS Siam Tower Building, Room No.250-259, 262-263, Floor 25th-26th, Rama3 Road, Chong Nonsi, Yan Nawa Bangkok",
-      "zip": "10120",
-      "tel": "0-2295-1555",
-      "fax": "0-2717-2899",
-      "web": "www.tacconsumer.com"
     },
     {
       "symbol": "TAKUNI",
@@ -4419,6 +4395,18 @@
       "web": "www.metco.co.th"
     },
     {
+      "symbol": "SICT",
+      "name": "SILICON CRAFT TECHNOLOGY PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Technology",
+      "sector": "Electronic Components",
+      "address": "No. 40 Thetsabanrangsannua Rd., Ladyao, Chatuchak Bangkok",
+      "zip": "10900",
+      "tel": "0-2589-9991",
+      "fax": "0-2589-8881",
+      "web": "www.sic.co.th"
+    },
+    {
       "symbol": "SMT",
       "name": "STARS MICROELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -6465,6 +6453,18 @@
       "tel": "0-5310-6538-40",
       "fax": "0-5310-6541",
       "web": "www.sunsweetthai.com"
+    },
+    {
+      "symbol": "TACC",
+      "name": "T.A.C. CONSUMER PUBLIC COMPANY LIMITED",
+      "market": "SET",
+      "industry": "Agro & Food Industry",
+      "sector": "Food & Beverage",
+      "address": "No.1023 MS Siam Tower Building, Room No.250-259, 262-263, Floor 25th-26th, Rama3 Road, Chong Nonsi, Yan Nawa Bangkok",
+      "zip": "10120",
+      "tel": "0-2295-1555",
+      "fax": "0-2717-2899",
+      "web": "www.tacconsumer.com"
     },
     {
       "symbol": "TC",
@@ -9520,7 +9520,7 @@
       "market": "SET",
       "industry": "Property & Construction",
       "sector": "Property Development",
-      "address": "1177, Pearl Bangkok Building, Phahonyothin Road, Phayathai Sub-District, Phayathai District Bangkok",
+      "address": "No. 1177, 9th Floor, Pearl Bangkok Building, Phaholyothin Road, Phayathai, Phayathai Bangkok",
       "zip": "10400",
       "tel": "0-2080-1739",
       "fax": "0-2080-1700",
