@@ -505,6 +505,18 @@
       "web": "www.cigpcl.com"
     },
     {
+      "symbol": "CLV",
+      "name": "CL VENTURE PUBLIC COMPANY LIMITED",
+      "market": "mai",
+      "industry": "Services",
+      "sector": "-",
+      "address": "88/8 Capital Link Building, Sathon Nuea Road, Silom Sub-district, Bangrak District Bangkok",
+      "zip": "10500",
+      "tel": "-",
+      "fax": "-",
+      "web": "www.clv.co.th"
+    },
+    {
       "symbol": "CMO",
       "name": "CMO PUBLIC COMPANY LIMITED",
       "market": "mai",
@@ -1127,18 +1139,6 @@
       "tel": "0-7420-5288, 0-7420-5242",
       "fax": "0-7420-5289",
       "web": "www.kandksuper.com"
-    },
-    {
-      "symbol": "KOOL",
-      "name": "CL VENTURE PUBLIC COMPANY LIMITED",
-      "market": "mai",
-      "industry": "Services",
-      "sector": "-",
-      "address": "88/8 Capital Link Building, Sathon Nuea Road, Silom Sub-district, Bangrak District Bangkok",
-      "zip": "10500",
-      "tel": "-",
-      "fax": "-",
-      "web": "www.clv.co.th"
     },
     {
       "symbol": "KTMS",
@@ -2538,10 +2538,10 @@
       "market": "mai",
       "industry": "Industrial",
       "sector": "-",
-      "address": "109/92-95 MOO 19, SOI SUKSAWAT, 66 SUKSAWAT ROAD, AMPHOE PHRA PRADAENG Samut Prakarn",
-      "zip": "10130",
-      "tel": "0-2463-0100",
-      "fax": "0-2463-1910",
+      "address": "Paradise Place Building, Room No. PDL.F03.CS001/00, 3rd Floor, No. 59/5, Nong Bon Subdistrict, Prawet District Bangkok",
+      "zip": "10250",
+      "tel": "0-2328-8328",
+      "fax": "-",
       "web": "www.unimit.com"
     },
     {
@@ -5323,18 +5323,6 @@
       "web": "www.sahaunion.co.th"
     },
     {
-      "symbol": "TR",
-      "name": "THAI RAYON PUBLIC COMPANY LIMITED",
-      "market": "SET",
-      "industry": "Consumer Products",
-      "sector": "Fashion",
-      "address": "MAHATUN PLAZA BLDG, FLOOR 16, 888/160-161 PLOENCHIT ROAD, LUMPINI, PATHUMWAN Bangkok",
-      "zip": "10330",
-      "tel": "0-2626-6377,0-2626-6383,0-2253-6749-53",
-      "fax": "-",
-      "web": "www.thairayon.com"
-    },
-    {
       "symbol": "TTI",
       "name": "THAI TEXTILE INDUSTRY PUBLIC COMPANY LIMITED",
       "market": "SET",
@@ -7912,7 +7900,7 @@
       "sector": "Insurance",
       "address": "315 Thai Group Building, 3-4th Floor, Silom Road, Silom Sub District, Bang Rak District Bangkok",
       "zip": "10500",
-      "tel": "0-2631-1314",
+      "tel": "0-2483-2466",
       "fax": "-",
       "web": "https:www.indara.co.th"
     },
@@ -7960,7 +7948,7 @@
       "sector": "Insurance",
       "address": "315 Thai Group Building, 12th Floor, Silom Road, Silom, Bang Rak District Bangkok",
       "zip": "10500",
-      "tel": "0-2632-1224",
+      "tel": "0-2483-2555",
       "fax": "-",
       "web": "https://www.tgh.co.th"
     },

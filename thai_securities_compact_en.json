@@ -1020,6 +1020,12 @@
     "sector": "Energy & Utilities"
   },
   {
+    "symbol": "CLV",
+    "name": "CL VENTURE PUBLIC COMPANY LIMITED",
+    "market": "mai",
+    "sector": "-"
+  },
+  {
     "symbol": "CM",
     "name": "CHIANGMAI FROZEN FOODS PUBLIC COMPANY LIMITED",
     "market": "SET",
@@ -2248,12 +2254,6 @@
     "name": "The Klinique Medical Clinic Public Company Limited",
     "market": "SET",
     "sector": "Health Care Services"
-  },
-  {
-    "symbol": "KOOL",
-    "name": "CL VENTURE PUBLIC COMPANY LIMITED",
-    "market": "mai",
-    "sector": "-"
   },
   {
     "symbol": "KPNREIT",
@@ -5014,12 +5014,6 @@
     "name": "TQR PUBLIC COMPANY LIMITED",
     "market": "mai",
     "sector": "-"
-  },
-  {
-    "symbol": "TR",
-    "name": "THAI RAYON PUBLIC COMPANY LIMITED",
-    "market": "SET",
-    "sector": "Fashion"
   },
   {
     "symbol": "TRC",
